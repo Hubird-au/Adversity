@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"name": "adversity",
+			"path": ".",
+			"file_include_patterns": ["*.txt", "*.py"]
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "adversity",
+			"working_dir" : "$project_path",
+			"cmd":
+			[
+				"python",
+				"-u",
+				"publish.py"
+			],
+		}
+	]
+}
