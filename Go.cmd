@@ -9,6 +9,7 @@ perl addChecksum.pl Adversity.txt
 perl addChecksum.pl Antisocial.txt
 perl addChecksum.pl Extreme-Measures.txt
 perl addChecksum.pl Adversity-Combined.txt
+cmd /k
 @echo.
 @echo.
 
