@@ -2,7 +2,8 @@
 ! Checksum: rr4X4jKRzXQYGNbQvk989w
 !
 ! Updated: 21 May 2014 (01:48:01 PM)
-! This list expires after 48 hours
+!
+! This list expires after 5 days
 !
 !
 ! License: http://creativecommons.org/licenses/by/3.0/

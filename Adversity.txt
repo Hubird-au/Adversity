@@ -1,9 +1,7 @@
 [Adblock Plus 2.0]
 ! Checksum: bfLnUJtOYyr3Se4sy4GnYg
 ! Updated: 22 May 2014 (4:30:42 PM)
-! This list expires after 48 hours
-!
-! 20/01/2014 Adversity lists no longer supported
+! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
 !
