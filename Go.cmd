@@ -1,14 +1,14 @@
-REM publish.py
-hg pull -u
 @echo.
-SortFilters.exe Adversity.txt
-SortFilters.exe Antisocial.txt
-SortFilters.exe Extreme-Measures.txt
+@echo.
+join.py Adversity.txt Antisocial.txt Extreme-Measures.txt Adversity-Combined.txt
+SortFilters.py Adversity.txt
+SortFilters.py Antisocial.txt
+SortFilters.py Extreme-Measures.txt
+SortFilters.py Adversity-Combined.txt
 perl addChecksum.pl Adversity.txt
 perl addChecksum.pl Antisocial.txt
 perl addChecksum.pl Extreme-Measures.txt
+perl addChecksum.pl Adversity-Combined.txt
 @echo.
-hg commit -m "%*"
-hg push
 @echo.
-hg heads
+
