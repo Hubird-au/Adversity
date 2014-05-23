@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: wS8VZgXDTu+pAaTQq9wKEw
-! Updated: 23 May 2014 (12:10:21 PM)
+! Checksum: h7f6ITjEfrlAyH53u7k2CQ
+! Updated: 23 May 2014 (1:17:59 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -338,6 +338,7 @@
 ###advert_back_160x600
 ###advert_back_300x250_1
 ###advert_back_300x250_2
+###advert_container
 ###advert_home01
 ###advert_mid
 ###advert_mpu_1
@@ -5680,6 +5681,7 @@ zynga.com##.noticebox
 ||checkmystats.com.au^
 ||chemistwarehouse.com.au/images/skins/
 ||chemistwarehouse.com.au^*/ad_
+||chess.com^*_ad.
 ||chilloutpoint.com/hah/
 ||chitika.net^
 ||chkpt.zdnet.com^$third-party,image
