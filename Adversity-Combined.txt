@@ -1,9 +1,14 @@
 [Adblock Plus 1.3.9]
-! Checksum: MSvgjgYbs9j73u2F5CSi2w
-! Updated: 23 May 2014 (12:04:26 PM)
+! Checksum: 77X2d6racCbXQCCTfm5WMg
 ! This list expires after 5 days
 !
 ! Homepage:  http://adversity.uk.to/
+!
+!
+!
+!******************************
+!********* Antisocial *********
+!******************************
 !
 ! Title: Adversity.txt
 !
@@ -2187,6 +2192,7 @@ zdnet.com##.siu-vertical
 !----- TESTING -- Will be removed if they get hits anywhere other than on Google services -----
 !
 @@||www-*-opensocial.googleusercontent.com^$domain=googleusercontent.com|~webcache.googleusercontent.com
+! Checksum: 7CXEawRDeX1VSNv4DwJENg
 !
 ! Updated: 23 May 2014 (9:58:18 AM)
 !
@@ -2195,6 +2201,10 @@ zdnet.com##.siu-vertical
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
 !
+!
+!**************************************
+!********** Extreme Measures **********
+!**************************************
 !
 !
 !
