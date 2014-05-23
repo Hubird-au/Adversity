@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: fErOELRVHqYEOsO3OGtbXQ
-! Updated: 23 May 2014 (9:58:18 AM)
+! Checksum: 4iUReoEIfxODYln5LoIn8A
+! Updated: 23 May 2014 (12:04:26 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2194,6 +2194,7 @@
 /adscript.
 /adsdaqbanner_
 /adseller/*
+/adsense-
 /adsense.
 /adsense/*
 /adsense?
