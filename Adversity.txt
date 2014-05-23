@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: +EPMmPUtsQ37KsSujmanmw
-! Updated: 23 May 2014 (04:16:13 PM)
+! Checksum: npk2ZUQ7U/kfqOx0AanCSw
+! Updated: 23 May 2014 (08:20:40 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2860,6 +2860,8 @@
 /ping?h=
 /piwik.
 /pix.gif?acct_id=
+/pix.php?
+/pixa.php?
 /pixel.asp?
 /pixel.gif?
 /pixel.gif?d=
@@ -6527,6 +6529,7 @@ zynga.com##.noticebox
 ||perfb.com^$third-party
 ||petametrics.com^$third-party
 ||pgmediaserve.com^
+||phncdn.com/iframe-
 ||phncdn.com/images/campaign-backgrounds/
 ||phonebunch.com^*_offers_
 ||phonechoice.com.au/*_300x420.
@@ -6841,6 +6844,7 @@ zynga.com##.noticebox
 ||sumads.com^
 ||superbay.net^$third-party
 ||superherostuff.com/Pages/CBMPage.aspx?
+||superloofy.com^$third-party
 ||supremeadsonline.com^
 ||surfertracker.com^
 ||surveys.cnet.com^
