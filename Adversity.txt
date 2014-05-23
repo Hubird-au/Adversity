@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cmyOJwebLgnnCA6ov1x+Uw
-! Updated: 23 May 2014 (2:40:12 PM)
+! Checksum: +EPMmPUtsQ37KsSujmanmw
+! Updated: 23 May 2014 (04:16:13 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1819,6 +1819,7 @@
 -160x600_v
 -180x150.
 -1x1.gif?
+-300x250-$domain=thessdreview.com
 -300x250.$domain=~bit-tech.net|~facebook.com|~nextmovie.com|~technabob.com|~phandroid.com
 -350x200.gif
 -468x60.
@@ -1848,6 +1849,7 @@
 -banner160x600-
 -beacon.png?
 -bg-takeover/
+-bg.jpg.$domain=thessdreview.com
 -blog-takeover.
 -blog-takeover1.
 -com/s?view.
@@ -1855,6 +1857,7 @@
 -contentdetail-ad.
 -dynamic-160x600-
 -editon-ad2.
+-Footer-Banner.gif?
 -gadgeteer.com/advertisments/
 -hitcounter.php?
 -homepageSkin-
@@ -3203,6 +3206,7 @@
 /wp-content*/ad2.
 /wp-content/*-App-Banner.
 /wp-content/*-Skin-$domain=~egotastic.com
+/wp-content/*/300x600x$domain=thessdreview.com
 /wp-content/*_ad.
 /wp-content/*LogicBuy.
 /wp-srv/ad/*
@@ -3306,6 +3310,7 @@ _160x22.gif
 _160x600.
 _160x600_
 _196x163.
+_245x230_$domain=thessdreview.com
 _250x60.
 _300_250_
 _300x100.$domain=ebay.com
@@ -4845,6 +4850,8 @@ thesaurus.com##.gsl-ads
 thesaurus.com##[style="border-top:1px solid #E4E4E4;padding-bottom:3px;padding-top:3px;position:static;"]
 thesaurus.com,reference.com##.spl_unshd
 theserverside.net##TABLE[style="padding-right:5px;"]
+thessdreview.com##.background-cover
+thessdreview.com##.WPBannerizeWidget
 thestar.com###ts-ad_module
 thestar.com##.ts-ad_unit_bigbox
 thestar.com##.ts-featured_ad
@@ -6869,6 +6876,8 @@ zynga.com##.noticebox
 ||thepiratebay.*/static/js/4728ba74bc.js
 ||thepiratebay.org/img/toolnew.
 ||thesmokinggun.com/1.1/1.gif?
+||thessdreview.com/wp-content/*-bg.
+||thessdreview.com^*_300x600a.
 ||thetaoofbadass.com^$popup
 ||thetechjournal.com^*uap300-100.
 ||thetechnologyblog.net/images/bp_internet/BP_125x125.
