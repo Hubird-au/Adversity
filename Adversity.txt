@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 4iUReoEIfxODYln5LoIn8A
-! Updated: 23 May 2014 (12:04:26 PM)
+! Checksum: wS8VZgXDTu+pAaTQq9wKEw
+! Updated: 23 May 2014 (12:10:21 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -394,6 +394,7 @@
 ###BigBoxAd
 ###billboard_ad
 ###block-openx-1
+###block-views-promotional-space-block-1
 ###blox-big-ad
 ###body_ad
 ###bottom-ad
@@ -2199,6 +2200,7 @@
 /adsense/*
 /adsense?
 /adsense_
+/adsensewidget/*
 /adserv/*
 /adserv_
 /adserve.
@@ -2973,6 +2975,7 @@
 /sidead.
 /sideads.
 /sidebar-ad-
+/sidebar-promo/*
 /site-tracker-
 /site-tracker.
 /site_stats/*
