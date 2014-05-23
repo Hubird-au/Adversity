@@ -9,11 +9,10 @@ SortFilters.py Extreme-Measures.txt
 SortFilters.py Adversity-Combined.txt
 @echo.
 @echo Finished sorting...
-@echo.
-perl addChecksum.pl Adversity.txt
-perl addChecksum.pl Antisocial.txt
-perl addChecksum.pl Extreme-Measures.txt
-perl addChecksum.pl Adversity-Combined.txt
+addChecksum.py Adversity.txt
+addChecksum.py Antisocial.txt
+addChecksum.py Extreme-Measures.txt
+addChecksum.py Adversity-Combined.txt
 @echo.
 @echo Finished adding checksum
 @echo.
