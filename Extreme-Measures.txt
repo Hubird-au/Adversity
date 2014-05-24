@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: roOEeKdm77WIir3sXczVew
+! Checksum: YbMOphNPOQyVU/x5GxxgEQ
 !
-! Updated: 23 May 2014 (2:40:12 PM)
+! Updated: 24 May 2014 (09:59:07 PM)
 !
 ! This list expires after 5 days
 !
@@ -421,6 +421,7 @@ nudecelebforum.com###floatingbar
 nytimes.com###upNext
 okcupid.com###loveisblindday
 okcupid.com###masthead_wrapper
+okcupid.com##.alistpromo
 okcupid.com##DIV[style="background: #142d69; border-radius: 0 5px 5px 0; -moz-border-radius: 0 5px 5px 0; -webkit-border-radius: 0 5px 5px 0; padding: 14px 12px 20px;"]
 pcmag.com##.subscibe-head
 people.com###flyingrecirc
