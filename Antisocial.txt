@@ -1,6 +1,6 @@
 [Adblock Plus 1.3.9]
-! Checksum: eWU+dO9gTTVLpAL8/Bv5eQ
-! Updated: 23 May 2014 (08:24:20 PM)
+! Checksum: PLpUpx0McT5CdNf8XdLDrQ
+! Updated: 25 May 2014 (10:30:10 PM)
 ! This list expires after 5 days
 !
 ! Homepage:  http://adversity.uk.to/
@@ -513,7 +513,6 @@
 ##.social-bar
 ##.social-block
 ##.social-block-content
-##.social-box
 ##.social-buttons
 ##.social-header
 ##.social-home
@@ -2179,6 +2178,7 @@ zdnet.com##.siu-vertical
 ~myfav.es##.icon-facebook
 ~nagariknews.com###fb_container
 ~news.com.au##.js-socialise-wrapper
+~paypal.com##.social-box
 ~reddit.com##.reddit
 ~stumbleupon.com##.stumble-it
 ~telegraph.co.uk##.shareThis
