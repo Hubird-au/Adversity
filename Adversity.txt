@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: npk2ZUQ7U/kfqOx0AanCSw
-! Updated: 23 May 2014 (08:20:40 PM)
+! Checksum: QCUhGkFNR+/5a4VQHSAa5w
+! Updated: 26 May 2014 (12:02:38 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6094,7 +6094,7 @@ zynga.com##.noticebox
 ||google.com/uds/afs?*&referer=
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
-||googletagmanager.com^$third-party
+||googletagmanager.com^$third-party,domain=~techradar.com
 ||googleusercontent.com/tracker/
 ||gostats.com^
 ||grapeshot.co.uk^
@@ -6853,6 +6853,7 @@ zynga.com##.noticebox
 ||swelen.com^
 ||syndication.jobthread.com^$third-party
 ||syndication.mmismm.com^
+||syndication.twitter.com^$third-party
 ||taboolasyndication.com^
 ||tacoda.net^
 ||talkinsex.com/forums/images/*_banner
