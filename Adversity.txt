@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: cOWFAJu38qW4WB9wrPJY0A
-! Updated: 26 May 2014 (04:20:11 PM)
+! Checksum: xJOyB7ULyIPehGIYIGzAtQ
+! Updated: 26 May 2014 (04:51:34 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1241,6 +1241,7 @@
 ##.adverts
 ##.advt-block
 ##.adWithTab
+##.adwords-container
 ##.adWrap
 ##.adx-target
 ##.affiliate-module
@@ -1501,6 +1502,7 @@
 ##.mpu-title
 ##.mpuAd
 ##.mpuBox
+##.mrec-container
 ##.msnChannelAd
 ##.n_ad
 ##.navad
