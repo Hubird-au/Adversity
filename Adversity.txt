@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: eun0SXH4RygzJ8ACR9m33g
-! Updated: 26 May 2014 (03:39:44 PM)
+! Checksum: I7I3j6aTwlxU4PBlbweIkA
+! Updated: 26 May 2014 (03:43:44 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1800,6 +1800,7 @@
 &ns_referrer=
 &parent.referrer=$image
 &pop_frequency=
+&ref=*&href=
 &referer=&
 &res=*&plg=*&url=
 &rnd=*&refremote=
