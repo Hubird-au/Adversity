@@ -1,6 +1,6 @@
 [Adblock Plus 1.3.9]
-! Checksum: PLpUpx0McT5CdNf8XdLDrQ
-! Updated: 25 May 2014 (10:30:10 PM)
+! Checksum: PpeqQBecl9CKoj28x12lFA
+! Updated: 26 May 2014 (02:01:34 PM)
 ! This list expires after 5 days
 !
 ! Homepage:  http://adversity.uk.to/
@@ -740,6 +740,7 @@
 /addthis48.
 /addthis_share.
 /addthis_sprite.
+/addthis_widget.
 /addthis_widget.$domain=~iamsecond.com
 /addThisButton.
 /AddTo_Delicious.
