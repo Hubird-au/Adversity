@@ -22,6 +22,10 @@
 ###article_actions_twitter
 ###articleSocial
 ###b_facebook2
+/googleplus_16.
+/twitter_counter.
+/like.php?*=button_count
+/facebook_counter.
 ###b_twitter2
 ###becomefan
 ###becomefancont
