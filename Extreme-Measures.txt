@@ -24,6 +24,8 @@
 ###cookiesdirective
 ###floating-count
 ###floating-toolbar
+_cookie.min.$domain=techradar.com
+||syndication.twitter.com^$third-party
 ###floating_tools
 ###flock_container
 ###followList
