@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: QCUhGkFNR+/5a4VQHSAa5w
-! Updated: 26 May 2014 (12:02:38 PM)
+! Checksum: eF8cVoYOq8D6Ky9mVT4bMg
+! Updated: 26 May 2014 (01:45:55 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -2800,6 +2800,7 @@
 /modperl/promos/image/*
 /modules.ooyala.com/static/modules/analytics-
 /modules/sponsored/*
+/mozo-powered-mini.
 /msn-$domain=pornoxo.com
 /msnads/*
 /MSNAdsiFrame/*
@@ -3757,6 +3758,7 @@ computing.net###top_banner
 conceivablytech.com,kohit.net,novamov.com,themoscowtimes.com##.top_banner
 cookieFix.html?acc_random=
 coolrom.com##TD[height="100"][bgcolor="#000000"]
+couriermail.com.au##.text-g-cm-web-group-business-affiliate
 couriermail.com.au##.text-g-cm-web-group-news-affiliate
 couriermail.com.au##.text-g-nn-web-group-ad-halfpage
 coveritlive.com###madModal
@@ -7069,6 +7071,7 @@ zynga.com##.noticebox
 ||widget5.linkwithin.com^
 ||widgets-v2.omio.com^$third-party
 ||widgets.mozo.com.au^$domain=news.com.au
+||widgets.mozo.com.au^$third-party
 ||widgets.shopifyapps.com^$third-party
 ||widgetserver.com/t/image.gif?
 ||wigetmedia.com/tags/4sharednet.js
