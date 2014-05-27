@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: ZSThi7xiP28Kp6D2yaqifA
-! Updated: 27 May 2014 (02:22:42 PM)
+! Checksum: ADalw0kFILw5y+5NxHS+Sg
+! Updated: 28 May 2014 (09:24:41 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -22,7 +22,6 @@
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
-kmart.com###OAS_posRight
 ###ad-160x600
 ###ad-2-160x600
 ###ad-250
@@ -4225,6 +4224,7 @@ kitguru.net##.block_inner.a-1.block_both
 kitguru.net##.block_inner.a-2.block_both
 kitguru.net##.block_inner.a-3.block_both
 kitguru.net##.block_inner.a-5.block_both
+kmart.com###OAS_posRight
 knowyourmeme.com##.a300x250
 knowyourmobile.com###block-kym_omio-kym_omio_deals_widget
 knowyourmobile.com###dialaphone_image_container
