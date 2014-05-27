@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: VkMP3s7uI/MeCrO65tMImw
-! Updated: 27 May 2014 (12:12:18 PM)
+! Checksum: ZSThi7xiP28Kp6D2yaqifA
+! Updated: 27 May 2014 (02:22:42 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6531,6 +6531,7 @@ zynga.com##.noticebox
 ||paydir.com^
 ||paypal.com/ts?v=
 ||pcauthority.com.au/t.ashx?$image
+||pclaptopdeals.com.au/bv/
 ||pclick.yahoo.com^$image
 ||pcpower.com/i/swf/
 ||peer39.net^
