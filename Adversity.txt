@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: nELdXimnegTB5qPI7XfvDQ
-! Updated: 28 May 2014 (10:21:52 AM)
+! Checksum: lGIKcSPQD2G8ilqlRLa/NQ
+! Updated: 28 May 2014 (11:34:05 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1954,6 +1954,7 @@
 .haymarketanalytics_
 .html?ad=
 .info/ads/
+.livefyre.com^*/tracking/
 .net/_.gif?t=
 .net/_ads/
 .net/ad/$~object-subrequest
@@ -1996,7 +1997,7 @@
 //beacon2.
 //counters.
 //geoip.
-//pixel.$script,image
+//pixel.$image,script,domain=~vulture.com
 //pmetrics.
 //s0.2mdn.net/dot.swf
 //track3.
@@ -2105,6 +2106,7 @@
 /adbrite.
 /adbrite/*
 /adbytes.
+/adcache.
 /adCallOverride.
 /adCampaigns/*
 /adchoice.
@@ -2328,6 +2330,7 @@
 /analytics/user.gif?
 /analytics_consolidated.
 /analyticsid.aspx
+/analyticsLinksTracking.
 /anametrix.
 /andbanners.html?target=
 /answertip.jsp?
