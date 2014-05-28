@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 2l0JILM6sFITgqA9VqdbtQ
-! Updated: 28 May 2014 (09:28:26 AM)
+! Checksum: nELdXimnegTB5qPI7XfvDQ
+! Updated: 28 May 2014 (10:21:52 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1464,6 +1464,7 @@
 ##.leftsidebar_ad
 ##.linkAD
 ##.localad
+##.logo_AdChoices
 ##.logoAds
 ##.LoungeAdsBottomLinks
 ##.lt_ad_call
@@ -3362,11 +3363,13 @@ _ad_canvas.
 _ad_central.
 _ad_controller.
 _ad_homepage.
+_ad_homepage_
 _ad_pageSize=
 _ad_request.
 _ad_server/
 _ad_skin/
 _adcall.
+_AdChoices.
 _admonitor_
 _ads&
 _ads.html
