@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 7aKWT8+c85O/mAMDwseM2g
-! Updated: 29 May 2014 (01:46:06 PM)
+! Checksum: j7TqOfLmlhDcARsbyboA2g
+! Updated: 30 May 2014 (04:07:49 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6478,6 +6478,7 @@ zynga.com##.noticebox
 ||nuvidp.com/nuvid/click
 ||nuvidp.com/nuvid/psn/
 ||nyaa.eu/index.php?
+||ocaholic.ch^*/css/wallpaper
 ||oddcast.com^
 ||offermatica.com^
 ||offerpalads.com^
