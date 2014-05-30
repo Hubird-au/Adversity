@@ -20,6 +20,9 @@
 !
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
+||popads.net^
+||thepiratebay.*/b1_
+||thepiratebay.*/b2.
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
