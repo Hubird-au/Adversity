@@ -23,6 +23,7 @@
 ||popads.net^
 ||thepiratebay.*/b1_
 ||thepiratebay.*/b2.
+||msecnd.net^$third-party
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
