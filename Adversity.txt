@@ -24,6 +24,8 @@
 ###ad-160x600
 ###ad-2-160x600
 ###ad-250
+bing.com##.b_ans
+bing.com##.b_ad
 ###ad-3-300x250
 ###ad-300x250
 ###ad-300x250Div
