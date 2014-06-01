@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: gO4u9Pfsl1A/l+i20H/oYA
-! Updated: 30 May 2014 (04:22:49 PM)
+! Checksum: wVabMLcMhUtbZa3sS9ydXg
+! Updated: 01 June 2014 (03:42:47 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -20,12 +20,6 @@
 !
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
-||popads.net^
-||thepiratebay.*/b1_
-||thepiratebay.*/b2.
-||msecnd.net^$third-party
-||directrev.com^$third-party
-||mobicow.com^$third-party
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
@@ -5858,6 +5852,7 @@ zynga.com##.noticebox
 ||digitalriver.com/images/cleardot.gif
 ||digitaltrends.com^*-mobile-feature.
 ||dinclinx.com^
+||directrev.com^$third-party
 ||directtrack.com^
 ||dirtybitchez.com^$popup
 ||discountnewcars.com.au^$third-party
@@ -6391,6 +6386,7 @@ zynga.com##.noticebox
 ||mkt51.net^
 ||mlstat.com^
 ||mnginteractive.com^*/todaysdeals.
+||mobicow.com^$third-party
 ||mobilelocalnews.com/images/tall_contentbg.
 ||mobilephonetalk.com/eurovps.swf
 ||mobisla.com^$third-party
@@ -6414,6 +6410,7 @@ zynga.com##.noticebox
 ||mrskin.com^$third-party,script
 ||mrstiff.com/view/context/spot/
 ||msads.net^
+||msecnd.net^$third-party
 ||msn.com/c.gif?
 ||msy.com.au^*-banner-
 ||multiupload.nl/popunder/?$popup
@@ -6592,6 +6589,7 @@ zynga.com##.noticebox
 ||pointroll.com^
 ||pokerlistings.com^$third-party
 ||pongoresume.com^$third-party
+||popads.net^
 ||popadscdn.net^
 ||popcde.com^
 ||pops.velmedia.net^
@@ -6908,6 +6906,8 @@ zynga.com##.noticebox
 ||theloungenet.com^
 ||themoxiemomblog.com/wp-content/mbp-banner/AffMeter_
 ||thepiratebay*/img/bar.
+||thepiratebay.*/b1_
+||thepiratebay.*/b2.
 ||thepiratebay.*/pop-
 ||thepiratebay.*/static/js/4728ba74bc.js
 ||thepiratebay.org/img/toolnew.
