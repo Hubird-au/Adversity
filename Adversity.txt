@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: YcP60IJasHNshdyMxy9w7A
-! Updated: 01 June 2014 (04:50:37 PM)
+! Checksum: 3aDYjVARDlqp17vx1YDVLg
+! Updated: 02 June 2014 (09:41:40 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -24,8 +24,6 @@
 ###ad-160x600
 ###ad-2-160x600
 ###ad-250
-bing.com##.b_ans
-bing.com##.b_ad
 ###ad-3-300x250
 ###ad-300x250
 ###ad-300x250Div
@@ -3644,6 +3642,8 @@ bhg.com###rightBannerContainer
 bigpond.com###header_banner
 bigpond.com##H5.subheading
 bigresource.com##TD[align="left"][width="250"]
+bing.com##.b_ad
+bing.com##.b_ans
 bit-tech.net##DIV[style="width: 728px; height: 90px;"]
 bit.com.au##FIELDSET[style="width:98%;border:1px solid #CCC;margin:0px;padding:0px 0px 0px 5px;"]
 bitcoinmagazine.com##.widget_adrotate_widgets
