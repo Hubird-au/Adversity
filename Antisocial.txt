@@ -1,6 +1,6 @@
 [Adblock Plus 1.3.9]
-! Checksum: kpXuREDhmn8LQqRX/IXZwA
-! Updated: 02 June 2014 (10:50:11 AM)
+! Checksum: t1zgImJ1gVh+2lXhWYNAzg
+! Updated: 02 June 2014 (10:59:49 AM)
 ! This list expires after 5 days
 !
 ! Homepage:  http://adversity.uk.to/
@@ -1683,6 +1683,7 @@
 /SocialMediaIcons/*
 /SocialMediaTwitter_
 /SocialMediaYoutube_
+/socialNet.
 /socialnet/facebook.
 /socialnet/icons/*
 /SocialNetworking/*$image
