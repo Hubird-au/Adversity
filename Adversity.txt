@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 3aDYjVARDlqp17vx1YDVLg
-! Updated: 02 June 2014 (09:41:40 AM)
+! Checksum: y/9AsIvGpb7mzmeJAqAWgA
+! Updated: 02 June 2014 (10:46:15 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6072,6 +6072,7 @@ zynga.com##.noticebox
 ||gamecetera.com/show/show.php?
 ||gamecopyworld.com^*=$subdocument
 ||gamecopyworld.com^*_*.php
+||gamedude.com.au/topbanner/
 ||gameknot.com/amaster.pl?j=
 ||gamersad.com^
 ||gamingjobsonline.com^$third-party
