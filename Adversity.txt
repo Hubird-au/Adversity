@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: y/9AsIvGpb7mzmeJAqAWgA
-! Updated: 02 June 2014 (10:46:15 AM)
+! Checksum: o0+tEOpvDHAERrCpTBIk9Q
+! Updated: 02 June 2014 (11:15:53 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -4635,6 +4635,7 @@ redmondmag.com###intersitial
 redmondmag.com###intersitialMask
 redmondpie.com##DIV[style="font-size: 1em; color: #888;"]
 redtube.com##.ntva
+redtube.com##.qb
 reference.com###bot
 reference.com###midbnrad
 reference.com###top
@@ -5821,6 +5822,7 @@ zynga.com##.noticebox
 ||dailymotion.com^*?position=
 ||dailywritingtips.com/wp-content/uploads/publisher
 ||damnlol.com/damnlol.com.*.js
+||darwarvid.com^$third-party
 ||data-ero-advertising.com^
 ||data.ninemsn.com.au/*GetAdCalls
 ||datasphere.com^
@@ -6676,6 +6678,7 @@ zynga.com##.noticebox
 ||red.bayimg.net^$third-party,subdocument
 ||redflagdeals.com^$third-party
 ||redstore.com/promos/
+||redtube.com/js/redtube.js?v=
 ||redtube.com/js/track.js
 ||redtube.com^$subdocument
 ||redtubefiles.com^*/skins/
