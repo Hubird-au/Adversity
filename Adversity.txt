@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: LrwGjhQS33nNtQ1241qnNQ
-! Updated: 04 June 2014 (12:17:39 PM)
+! Checksum: Mmd9tdXj4Q1dtvUW63nOcg
+! Updated: 06 June 2014 (01:52:53 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3666,6 +3666,7 @@ blogtv.com##.uc_banner
 blogtv.com##[style="width:752px;top:5px;height:100px;text-align:center; padding-top:5px; "]
 bluechipit.com.au##IMG[style="width:135px;height:auto;margin:3px,2px,auto,2px;"]
 boards.straightdope.com##[src="http://boards.straightdope.com/scripts/adwriter2.js"] + * + * + * + * :first-child + TR:last-child > *
+bodybuilding.com###article-featured-product
 boingboing.net##P[style="text-align:center;margin-top:0px"]
 boston.com###externalBanner
 boxoffice.com###top_banner
