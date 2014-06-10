@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: Mmd9tdXj4Q1dtvUW63nOcg
-! Updated: 06 June 2014 (01:52:53 PM)
+! Checksum: zvOfK+QjTvClyOL5K6tqrw
+! Updated: 11 June 2014 (09:14:33 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1771,6 +1771,7 @@
 ##[title="Advertise Here"]
 ##A[href*="/adclick.php?"]
 ##A[href="http://adf.ly/advertising.php"]
+##A[href^="http://ad.doubleclick.net/"]
 ##a[href^="http://ads.ad-center.com/"]
 ##A[href^="http://adserver.adtechus.com/adlink/"]
 ##A[href^="http://clickserve.cc-dt.com/link/tplclick?lid="]
@@ -6464,6 +6465,7 @@ zynga.com##.noticebox
 ||news.com.au/cs/newscomau/v2/*page-bg.$image
 ||news.com.au/cs/travel/images/skin/
 ||news.com.au/flash/travel/
+||news.com.au/images/*-ints-
 ||news.com.au/tracking/
 ||news.com.au^*-lumberjack/$script
 ||news.com.au^*-skin-$image
