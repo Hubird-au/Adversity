@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: zvOfK+QjTvClyOL5K6tqrw
-! Updated: 11 June 2014 (09:14:33 AM)
+! Checksum: FmawTX2AaXUArg5fBK5r1w
+! Updated: 12 June 2014 (12:00:46 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6420,7 +6420,6 @@ zynga.com##.noticebox
 ||mrskin.com^$third-party,script
 ||mrstiff.com/view/context/spot/
 ||msads.net^
-||msecnd.net^$third-party
 ||msn.com/c.gif?
 ||msy.com.au^*-banner-
 ||multiupload.nl/popunder/?$popup
