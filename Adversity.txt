@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FmawTX2AaXUArg5fBK5r1w
-! Updated: 12 June 2014 (12:00:46 PM)
+! Checksum: 07/RCo1zFl4j6TjlFaQMEg
+! Updated: 17 June 2014 (11:43:51 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -21,7 +21,6 @@
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
-##.wo-widget-wrap
 ###ad-160x600
 ###ad-2-160x600
 ###ad-250
@@ -1754,6 +1753,7 @@
 ##.wn-ad
 ##.wnMultiAd
 ##.wo-smartwidget-wrap
+##.wo-widget-wrap
 ##.wpadvert
 ##.wrapper-ad
 ##.wrapper-promo-box
