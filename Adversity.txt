@@ -21,6 +21,7 @@
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
+##.wo-widget-wrap
 ###ad-160x600
 ###ad-2-160x600
 ###ad-250
