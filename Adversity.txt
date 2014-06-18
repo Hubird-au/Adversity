@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: 07/RCo1zFl4j6TjlFaQMEg
-! Updated: 17 June 2014 (11:43:51 AM)
+! Checksum: FCAh9KP3/cndwhi7qz5+3Q
+! Updated: 18 June 2014 (10:54:57 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -6475,6 +6475,7 @@ zynga.com##.noticebox
 ||news.com.au^*/logo/*-partner.
 ||news.com.au^*/promotions/
 ||news.com.au^*/subway$script
+||news.com.au^*/unibet/
 ||news.com.au^*/warner/
 ||newsanalytics.com.au^$third-party
 ||newtorrents.info/img/yourad.
