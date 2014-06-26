@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: /uvh9SP9xs5RHs7qZF014w
-! Updated: 26 June 2014 (03:52:47 PM)
+! Checksum: FDe8PM3EBCzejNTOYdo8Eg
+! Updated: 26 June 2014 (04:05:00 PM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -3194,6 +3194,7 @@
 /vghd_940x150.
 /vhgd_682x137_
 /video-pre-roll/*$domain=metacafe.com
+/viewid=*/site=*/size=
 /viewtracking.aspx?
 /Virtua_text_ad.
 /virtuagirl/rotate.
