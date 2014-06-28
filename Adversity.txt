@@ -23,6 +23,9 @@
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
+thepiratebay.si##IMG[width="468"][height="60"]
+thepiratebay.si##IMG[width="644"][height="90"]
+.popads.net 
 ###ad-250
 ###ad-3-300x250
 ###ad-300x250
