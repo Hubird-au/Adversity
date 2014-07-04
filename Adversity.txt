@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
-! Checksum: FDe8PM3EBCzejNTOYdo8Eg
-! Updated: 26 June 2014 (04:05:00 PM)
+! Checksum: IjdfNBYD2SFODmCOB+9zCA
+! Updated: 04 July 2014 (11:57:40 AM)
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1647,6 +1647,7 @@
 ##.sponsored-level
 ##.sponsored-link
 ##.sponsored-links
+##.sponsored-rec
 ##.sponsored-result-row
 ##.sponsored_box
 ##.sponsored_box_search
