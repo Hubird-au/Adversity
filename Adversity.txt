@@ -1,10 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: zp+u5F0c3lmL3nMhNZmhUA
-<<<<<<< HEAD
-! Updated: 04 July 2014 (11:59:16 AM)
-=======
-! Updated: 29 June 2014 (08:43:35 PM)
->>>>>>> origin/master
+! Checksum: zBKkHJBH6rb3DAZHK94gLA
+!
+! Updated: 04 July 2014 (12:00:46 PM)
+!
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
