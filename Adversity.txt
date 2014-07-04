@@ -1,6 +1,10 @@
 [Adblock Plus 2.0]
-! Checksum: IjdfNBYD2SFODmCOB+9zCA
-! Updated: 04 July 2014 (11:57:40 AM)
+! Checksum: zp+u5F0c3lmL3nMhNZmhUA
+<<<<<<< HEAD
+! Updated: 04 July 2014 (11:59:16 AM)
+=======
+! Updated: 29 June 2014 (08:43:35 PM)
+>>>>>>> origin/master
 ! This list expires after 5 days
 !
 ! License: http://creativecommons.org/licenses/by/3.0/
@@ -1591,6 +1595,7 @@
 ##.searchAds
 ##.searchads
 ##.secondaryAdModule
+##.section_ad
 ##.sfsp_adadvert
 ##.sgAdLabel
 ##.showAd
@@ -1987,6 +1992,7 @@
 .php?zoneid=*&referer=
 .play.com/sitetrak/
 .png?referrer=
+.popads.net 
 .rolloverad.
 .se/?placement=$popup
 .uk/ads/
@@ -2761,6 +2767,7 @@
 /js/v53nse.js
 /jscount.php?counters=
 /jserver/site
+/json/ad/*
 /jument.ads.js?
 /kaksvpopup.
 /kantarmedia.
@@ -4877,6 +4884,8 @@ thepiratebay.se##A[href*="adexprt.com/"]
 thepiratebay.se##A[href^="http://lp.torchbrowser.com/?sysid="]
 thepiratebay.se##A[title="Anonymous Download"]
 thepiratebay.se##DIV[style="height: 35px; font-weight: bold; font-family: Arial,Helvetica,sans-serif; font-size: 13px; color: rgb(0, 0, 0); background-color: rgb(255, 241, 168); top: 0px; left: 0px; width: 102%; margin: -11px -10px 10px;"]
+thepiratebay.si##IMG[width="468"][height="60"]
+thepiratebay.si##IMG[width="644"][height="90"]
 thepornguru.com##DIV[style="padding-top: 10px;"]
 thepornguru.com##DIV[style="padding-top: 20px; width: 950px; height: 250px; margin: 0 auto 0 auto;"]
 thermaltake.outervision.com##TABLE[style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid; border-color: #E6E6E6"]
@@ -6690,7 +6699,6 @@ zynga.com##.noticebox
 ||red.bayimg.net^$third-party,subdocument
 ||redflagdeals.com^$third-party
 ||redstore.com/promos/
-||redtube.com/js/redtube.js?v=
 ||redtube.com/js/track.js
 ||redtube.com^$subdocument
 ||redtubefiles.com^*/skins/
