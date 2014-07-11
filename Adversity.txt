@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 0Vb+lA8/MjsRj3v9KdVNYA
+! Checksum: dNfy+i6ZbKxnlUyKs18G0w
 !
-! Updated: 11 July 2014 (10:49:30 AM)
+! Updated: 11 July 2014 (03:07:21 PM)
 !
 ! This list expires after 5 days
 !
@@ -3652,6 +3652,7 @@ belfasttelegraph.co.uk##DIV[style="width:160px;height:600px;"]
 belfasttelegraph.co.uk##TABLE[width="300"][height="250"]
 bet.com##.bq_adleaderboard
 betanews.com##.bn_boxad4
+bgr.com##.trc-content-sponsored
 bhg.com###rightBannerContainer
 bigpond.com###header_banner
 bigpond.com##H5.subheading
