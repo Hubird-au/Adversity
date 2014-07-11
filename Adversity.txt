@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7Ml570codZmzLvMKnKMhYg
+! Checksum: yN5zCJJQPzOCLbP2pKymbw
 !
-! Updated: 11 July 2014 (03:18:07 PM)
+! Updated: 11 July 2014 (04:24:51 PM)
 !
 ! This list expires after 5 days
 !
@@ -3472,7 +3472,7 @@ _youtube.$domain=solomid.net
 aardvark.co.nz##.tinyprint
 abc-celebs.com##TD[width="306"][align="center"]
 abclocal.go.com###bannerTop
-abclocal.go.com,appolicious.com,autoguide.com,break.com,bgr.com,brisbanetimes.com.au,canberratimes.com.au,carsguide.com.au,channel5.com,chaturbate.com,citysearch.com,cnet.com,cnet.com.au,comcast.net,comicbookmovie.com,craveonline.com,dealnews.com,dermnetnz.org,dictionary.com,dnainfo.com,dogtime.com,domain.com.au,drive.com.au,farmville.com,findthebest.com,food.com,forbes.com,foxnews.com,gardenista.com,gardenweb.com,gawker.com,hollywood-elsewhere.com,housebeautiful.com,howstuffworks.com,independent.co.uk,instyle.com,interfacelift.com,ip-adress.com,jobs.com.au,legitreviews.com,livestream.com,marieclaire.com,mediafire.com,motorcycle.com,msn.com,music.com,mycareer.com.au,news.com.au,novamov.com,nudepad.com,nytimes.com,omfg.com.au,omg-facts.com,osnews.com,photoreporter.com,pingtest.net,quibblo.com,sfgate.com,sherdog.com,slantmagazine.com,smh.com.au,stripes.com,suite101.com,talkandroid.com,thatslife.com.au,theage.com.au,theatlantic.com,theglobeandmail.com,tinypic.com,todaystmj4.com,trulia.com,ulmb.com,unlimitedserials.com,usatoday.com,washingtonpost.com,greenbot.com,watoday.com.au,userstyles.org,x17online.com,zdnet.com.au,thecarconnection.com,zedge.net,thesaurus.com,goo.im,videoweed.es,aussieoutages.com,csoonline.com##.ad
+abclocal.go.com,appolicious.com,autoguide.com,break.com,bgr.com,brisbanetimes.com.au,canberratimes.com.au,carsguide.com.au,channel5.com,chaturbate.com,citysearch.com,cnet.com,cnet.com.au,comcast.net,comicbookmovie.com,craveonline.com,dealnews.com,dermnetnz.org,dictionary.com,dnainfo.com,dogtime.com,domain.com.au,drive.com.au,farmville.com,findthebest.com,food.com,forbes.com,foxnews.com,gardenista.com,gardenweb.com,gawker.com,hollywood-elsewhere.com,housebeautiful.com,howstuffworks.com,independent.co.uk,instyle.com,interfacelift.com,ip-adress.com,jobs.com.au,legitreviews.com,livestream.com,marieclaire.com,mediafire.com,motorcycle.com,msn.com,music.com,mycareer.com.au,news.com.au,novamov.com,nudepad.com,nytimes.com,omfg.com.au,omg-facts.com,osnews.com,photoreporter.com,pingtest.net,quibblo.com,sfgate.com,sherdog.com,slantmagazine.com,smh.com.au,stripes.com,suite101.com,talkandroid.com,thatslife.com.au,theage.com.au,theatlantic.com,theglobeandmail.com,tinypic.com,todaystmj4.com,trulia.com,ulmb.com,unlimitedserials.com,usatoday.com,washingtonpost.com,greenbot.com,watoday.com.au,userstyles.org,x17online.com,zdnet.com.au,thecarconnection.com,zedge.net,thesaurus.com,goo.im,videoweed.es,aussieoutages.com,csoonline.com,tripadvisor.com.au##.ad
 abcnews.go.com###sfpSynch
 about.com###adL
 about.com###google1
@@ -7026,6 +7026,7 @@ zynga.com##.noticebox
 ||tripadvisor.co.uk/adp/adp-
 ||tripadvisor.co.uk/uvpages/page_moniker.html?geo=
 ||tripadvisor.com.au/adp/adp-
+||tripadvisor.com.au^*Popunder?$popup
 ||tripadvisor.com/adp/adp-
 ||tripadvisor.com/uvpages/page_moniker.html?geo=
 ||trkalot.com^
