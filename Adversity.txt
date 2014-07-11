@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: POPee67K2dbyEoDrybK1aw
+! Checksum: 0Vb+lA8/MjsRj3v9KdVNYA
 !
-! Updated: 09 July 2014 (07:13:41 PM)
+! Updated: 11 July 2014 (10:49:30 AM)
 !
 ! This list expires after 5 days
 !
@@ -220,6 +220,9 @@
 ###adInBetweenPosts
 ###adIsland
 ###adItems
+###adkit_footer
+###adkit_mrec1
+###adkit_mrec2
 ###adl_leaderboard
 ###adLabel
 ###adLeader
@@ -1052,7 +1055,6 @@
 ##.adHolder
 ##.adholder-300
 ##.adIsland
-##.adkit
 ##.adLabel
 ##.adlabel
 ##.adlabel-horz
@@ -7253,6 +7255,7 @@ zynga.com##.noticebox
 ~mycareer.com.au##.adContent
 ~mycareer.com.au,~nytimes.com,~yellowbook.com##.adContainer
 ~nbc.com###ad_unit
+~pcmag.com##.adkit
 ~pcper.com##.ad160
 ~pcper.com##.block-google_admanager
 ~photobucket.com##.headerAd
