@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tQs/GWe3fzuigs1gukAesg
+! Checksum: YMdFiwipWqKj1fuYkpmKtQ
 !
-! Updated: 14 July 2014 (10:12:06 AM)
+! Updated: 14 July 2014 (10:39:11 AM)
 !
 ! This list expires after 5 days
 !
@@ -1909,6 +1909,7 @@
 .ch/adv/
 .co.uk/affiliates/
 .co.uk/sponsors/
+.com.au/adv/
 .com.au/Advertisements/
 .com.au/c.gif?
 .com/*/ad_wrapper
@@ -2589,6 +2590,7 @@
 /getAdList.aspx?
 /getads.
 /getAdSettingsJS?
+/GetAdvertising*?Category=
 /getHalfPageAd.
 /getMarketplaceAds.
 /glam_metrics.
