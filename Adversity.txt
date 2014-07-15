@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: uCAIeUCXxYOlIgcloJ/CoA
+! Checksum: dbHia7GBoMEiQSVhAfJ7Sw
 !
-! Updated: 14 July 2014 (03:15:18 PM)
+! Updated: 15 July 2014 (02:29:39 PM)
 !
 ! This list expires after 5 days
 !
@@ -4147,6 +4147,7 @@ healthline.com##.ad-lb
 healthline.com##.wsrblock
 help.com###bwp
 helpwithsmoking.com##.hws[width="208"]
+heraldsun.com.au##.text-g-nn-web-group-ad-halfpage
 hi5.com###PageLeader
 hidemyass.com###outercontainer
 hiphopdx.com##DIV[style="width:300px;min-height:250px;margin-bottom:20px;"]
