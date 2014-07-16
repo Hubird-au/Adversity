@@ -18,6 +18,11 @@
 !
 ! Homepage:  http://adversity.uk.to/test.html
 !
+!
+||video.ibtimes.co.uk/Ibtukvideos/$domain=ibtimes.co.uk
+! Above site has annoying vids that auto play, above rule breaks all site video, can't be helped.
+!
+!
 ###bb_pp_tos_ack
 ###connectCNET
 ###cookie-law-container
