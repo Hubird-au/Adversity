@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: dbHia7GBoMEiQSVhAfJ7Sw
+! Checksum: wU9yaCyoLcHW2kEJ8w6rlg
 !
-! Updated: 15 July 2014 (02:29:39 PM)
+! Updated: 21 July 2014 (09:28:23 AM)
 !
 ! This list expires after 5 days
 !
@@ -3918,6 +3918,7 @@ ebay.com,ebay.com.au,ebay.co.uk###rtm_html_566
 ebay.com.au###gh-doodleS
 ebay.com.au###leaderboard
 ebay.com.au###marketplace
+ebay.com.au###RightPanel
 ebay.com.au###rtm_div_519
 ebay.com.au###rtm_html_11578
 ebay.com.au###rtm_html_1587
