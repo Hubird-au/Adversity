@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: wU9yaCyoLcHW2kEJ8w6rlg
+! Checksum: QciVqYGHNIAQitJRYx/fxA
 !
-! Updated: 21 July 2014 (09:28:23 AM)
+! Updated: 21 July 2014 (10:30:49 AM)
 !
 ! This list expires after 5 days
 !
@@ -3491,7 +3491,6 @@ activeden.net##.promo-strip
 activistpost.com##A[style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"]
 ad_120_60.
 addictinggames.com###potw
-adelaidenow.com.au##.text-g-nn-web-group-ad-halfpage
 adf.ly,deezer.com,forums.vr-zone.com,hplusmagazine.com,j.gs,q.gs,u.bb,usniff.com###bottom
 adsl2exchanges.com.au###rotation
 advert_bottom_
@@ -3795,7 +3794,6 @@ cookieFix.html?acc_random=
 coolrom.com##TD[height="100"][bgcolor="#000000"]
 couriermail.com.au##.text-g-cm-web-group-business-affiliate
 couriermail.com.au##.text-g-cm-web-group-news-affiliate
-couriermail.com.au##.text-g-nn-web-group-ad-halfpage
 coveritlive.com###madModal
 coveritlive.com###popupModalBkgd
 cpu-world.com##DIV[style="height: 90px; padding: 3px; text-align: center"]
@@ -3822,6 +3820,7 @@ dailymail.co.uk##.puff-advertorials
 dailymotion.com##.dmpi_masscast
 dailymotion.com##.dmpi_subheader
 dailypuppy.com###top_leaderboard
+dailytelegraph.com.au##DIV[style="overflow:hidden;width:300px;height:263px;"]
 dallasobserver.com##.AIfeatured
 datacenterknowledge.com##.header-banner
 datafilehost.com##DIV[style="width:300px;height:250px;margin:0 auto;border:1px solid black;"]
@@ -4148,7 +4147,7 @@ healthline.com##.ad-lb
 healthline.com##.wsrblock
 help.com###bwp
 helpwithsmoking.com##.hws[width="208"]
-heraldsun.com.au##.text-g-nn-web-group-ad-halfpage
+heraldsun.com.au,adelaidenow.com.au,dailytelegraph.com.au,couriermail.com.au##.text-g-nn-web-group-ad-halfpage
 hi5.com###PageLeader
 hidemyass.com###outercontainer
 hiphopdx.com##DIV[style="width:300px;min-height:250px;margin-bottom:20px;"]
