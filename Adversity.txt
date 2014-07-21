@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: QciVqYGHNIAQitJRYx/fxA
+! Checksum: Nq8Mf1sQ6FKd5nXr5ilA4A
 !
-! Updated: 21 July 2014 (10:30:49 AM)
+! Updated: 21 July 2014 (11:31:28 AM)
 !
 ! This list expires after 5 days
 !
@@ -2115,6 +2115,7 @@
 /ad_wrapper0160.
 /AdAdmin/*
 /adaptvAdPlayer.js
+/adblock-header-
 /AdBlock.ashx?
 /adbot_promos/*
 /adbox_content.
