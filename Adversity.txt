@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Nq8Mf1sQ6FKd5nXr5ilA4A
+! Checksum: xhqzR/+ksfqu3NFFe0bLMQ
 !
-! Updated: 21 July 2014 (11:31:28 AM)
+! Updated: 21 July 2014 (01:14:44 PM)
 !
 ! This list expires after 5 days
 !
@@ -6069,6 +6069,7 @@ zynga.com##.noticebox
 ||flashtalking.com^
 ||fleshlight.com^$third-party
 ||flightcentre.com.au^$third-party,domain=news.com.au
+||flixsyndication.net^
 ||floodnetwork.biz^
 ||fls.doubleclick.net/activityj;src=
 ||flurl.com/frames/
@@ -6266,6 +6267,7 @@ zynga.com##.noticebox
 ||ixquick.*/do/adviewtrack.pl?
 ||izea.com^
 ||jangonetwork.com^
+||jbhifi.com.au^*_LEADERBOARD_
 ||jdoqocy.com^
 ||jeetyetmedia.com^
 ||jocly.com^$third-party
