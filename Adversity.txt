@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: xhqzR/+ksfqu3NFFe0bLMQ
+! Checksum: uMkgLb4mnC6OS7MjSu6/mg
 !
-! Updated: 21 July 2014 (01:14:44 PM)
+! Updated: 21 July 2014 (01:19:11 PM)
 !
 ! This list expires after 5 days
 !
@@ -2071,6 +2071,7 @@
 /ad-header.
 /ad-iframe.
 /ad-ros-
+/ad-server/*
 /ad-vert.
 /ad-wrapper-
 /ad.asp?
@@ -6267,7 +6268,6 @@ zynga.com##.noticebox
 ||ixquick.*/do/adviewtrack.pl?
 ||izea.com^
 ||jangonetwork.com^
-||jbhifi.com.au^*_LEADERBOARD_
 ||jdoqocy.com^
 ||jeetyetmedia.com^
 ||jocly.com^$third-party
