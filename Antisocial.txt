@@ -21,6 +21,7 @@
 ###addthisButton
 ###article_actions_twitter
 ###articleSocial
+##.simple-social-icons
 ###b_facebook2
 ###b_twitter2
 ###becomefan
