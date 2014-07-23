@@ -27,6 +27,7 @@
 ###becomefan
 ###becomefancont
 ###bf_social_fblike
+##.twitter-tweet
 ###CE_follow_us
 ###ck_sharethis
 ###dd_ajax_float
