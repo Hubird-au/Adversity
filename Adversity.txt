@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: lt+CGz2d79LUPutqhfUR+g
+! Checksum: qYrTBiGxM0FuVHyaZcQxcg
 !
-! Updated: 24 July 2014 (10:12:54 AM)
+! Updated: 24 July 2014 (10:16:10 AM)
 !
 ! This list expires after 5 days
 !
@@ -4715,6 +4715,7 @@ securitywonks.net##.add_728_90
 securitywonks.net##.download_340_290
 securitywonks.net##.rt_block_head_content_sponsered
 securitywonks.net##.rt_block_head_content_sponsered1
+seek.com.au##.premium
 selfgrowth.com##.article-banner
 sensis.com.au###northPfp
 sensis.com.au###southPfp
