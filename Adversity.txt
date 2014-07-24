@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hQ93HUiKS0R8b+7PjRvWOA
+! Checksum: lt+CGz2d79LUPutqhfUR+g
 !
-! Updated: 23 July 2014 (01:58:39 PM)
+! Updated: 24 July 2014 (10:12:54 AM)
 !
 ! This list expires after 5 days
 !
@@ -2276,6 +2276,7 @@
 /ADTECH;
 /adTest/*
 /adTitleLeaderboard.
+/adtranslator/*
 /ADTYPE=
 /adultadworldpop_z.js
 /AdUnits/*
@@ -2301,6 +2302,7 @@
 /Advertising/images/*
 /advertising_
 /advertisingbanner.
+/AdvertisingModule.
 /advertphp/*
 /advertRail.
 /adverts.
@@ -2493,6 +2495,7 @@
 /context_ads
 /contrib/curlypage/*
 /convertJSONtoAd.js
+/cookie_backup.
 /corner/peel.js
 /count.json?
 /count.php?gr=
@@ -5559,6 +5562,7 @@ zynga.com##.noticebox
 ||akamai.net^*_preroll.
 ||akamaihd.net/ads-
 ||akamaihd.net/zlive/xpromo/
+||akamaihd.net^*&affiliateId=
 ||akamaihd.net^*/takeovers/
 ||alcpu.com/CoreTemp/main_data/scythe.png
 ||alexa.com^$third-party
