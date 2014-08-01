@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qYrTBiGxM0FuVHyaZcQxcg
+! Checksum: 1Ufr3EIVCNrAXSunvJdnYQ
 !
-! Updated: 24 July 2014 (10:16:10 AM)
+! Updated: 01 August 2014 (12:33:15 PM)
 !
 ! This list expires after 5 days
 !
@@ -6928,7 +6928,6 @@ zynga.com##.noticebox
 ||swelen.com^
 ||syndication.jobthread.com^$third-party
 ||syndication.mmismm.com^
-||syndication.twitter.com^$third-party
 ||taboolasyndication.com^
 ||tacoda.net^
 ||talkinsex.com/forums/images/*_banner
