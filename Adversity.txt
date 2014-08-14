@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3utNRCkc0p+DdltwP32gWA
+! Checksum: DtqSxpApdNhE900pSsCO7A
 !
-! Updated: 14 August 2014 (04:06:22 PM)
+! Updated: 14 August 2014 (04:12:52 PM)
 !
 ! This list expires after 5 days
 !
@@ -4473,6 +4473,7 @@ ngohq.com##TABLE[style="width:468px; height:70px;"]
 ninemsn.com.au###cat_hl_6783486
 ninemsn.com.au###cudoDiv
 ninemsn.com.au###msnhd_div3
+ninemsn.com.au###shopping
 ninemsn.com.au###shopping
 ninemsn.com.au###spons_left
 ninemsn.com.au###ysm
