@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 1Ufr3EIVCNrAXSunvJdnYQ
+! Checksum: B6XL2n+1vCvtaMXZoncLhA
 !
-! Updated: 01 August 2014 (12:33:15 PM)
+! Updated: 14 August 2014 (12:13:07 PM)
 !
 ! This list expires after 5 days
 !
@@ -7243,7 +7243,7 @@ zynga.com##.noticebox
 ~anzwers.com.au,~bipbip.co.il,~ksl.com,~quoka.de,~u-file.net##.adtext
 ~autoweek.com,~cooperhewitt.org,~fortunebiz.info,~metblogs.com,~oreilly.com###adspace
 ~beforeitsnews.com,~bestplaces.nydailynews.com,~elledecor.com,~tvland.com##.ad_728x90
-~beginyouridea.com,~blockbuster.co.uk,~dailymail.co.uk,~jobs.wa.gov.au,~mailonsunday.co.uk,~manxtelecom.com,~scan.co.uk,~storegate.co.uk,~storegate.com##.advert
+~beginyouridea.com,~blockbuster.co.uk,~dailymail.co.uk,~jobs.wa.gov.au,~mailonsunday.co.uk,~manxtelecom.com,~scan.co.uk,~storegate.co.uk,~storegate.com,~9news.com.au##.advert
 ~bigpond.com,~bigpondnews.com###bphf-top
 ~break.com###ad2
 ~break.com###ad3
