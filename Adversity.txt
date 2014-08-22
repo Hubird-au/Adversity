@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DtqSxpApdNhE900pSsCO7A
+! Checksum: 2jnzErVPmCtP31eOYx/ROg
 !
-! Updated: 14 August 2014 (04:12:52 PM)
+! Updated: 22 August 2014 (10:11:55 AM)
 !
 ! This list expires after 5 days
 !
@@ -4175,6 +4175,7 @@ howtoforge.com###adleaderboard_flex
 howtoforge.com###adrectangleb_flex
 howtogeek.com##DIV[style="padding-top:20px;margin-top:10px;margin-bottom:10px;min-height:115px;text-align:center;width:750px;margin-left:113px;"]
 howtogeek.com##DIV[style="padding-top:20px;margin-top:210px;margin-bottom:10px;min-height:115px;text-align:center;width:750px;margin-left:15px;"]
+hoyts.com.au##.modSKPanel
 html?affid=
 http://74.55.82.102^
 http://ad2.
