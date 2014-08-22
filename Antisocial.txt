@@ -19,6 +19,7 @@
 !
 ###addthis
 ###addthisButton
+###PanelFacebook
 ###article_actions_twitter
 ###articleSocial
 ###b_facebook2
