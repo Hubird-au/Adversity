@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ANweXsPjTQzVQXr3/7wUyw
+! Checksum: TzCz/x4AZv2/m648QfbAFg
 !
-! Updated: 22 August 2014 (10:25:06 AM)
+! Updated: 22 August 2014 (10:42:15 AM)
 !
 ! This list expires after 5 days
 !
@@ -1286,6 +1286,7 @@
 ##.block-openx
 ##.block_ad
 ##.blog-ads-container
+##.bnrAds
 ##.bodyads2
 ##.bomAd
 ##.bottom-ads
