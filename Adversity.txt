@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2jnzErVPmCtP31eOYx/ROg
+! Checksum: ANweXsPjTQzVQXr3/7wUyw
 !
-! Updated: 22 August 2014 (10:11:55 AM)
+! Updated: 22 August 2014 (10:25:06 AM)
 !
 ! This list expires after 5 days
 !
@@ -6206,6 +6206,7 @@ zynga.com##.noticebox
 ||hotsexyscenes.com/iframes/
 ||hotsocials.com^$third-party
 ||hotsocialz.com^
+||hoyts.com.au/media/*_laprem
 ||hs.interpolls.com^
 ||huffingtonpost.com/geopromo/
 ||hulu.com/beacon/v3/error?event=
