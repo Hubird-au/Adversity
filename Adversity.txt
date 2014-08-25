@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: TzCz/x4AZv2/m648QfbAFg
+! Checksum: fym/I2/DWCc4pa4iLQTK6Q
 !
-! Updated: 22 August 2014 (10:42:15 AM)
+! Updated: 25 August 2014 (04:21:37 PM)
 !
 ! This list expires after 5 days
 !
@@ -7291,7 +7291,7 @@ zynga.com##.noticebox
 ~thecoolhunter.com.au,~thecoolhunter.net##.Ads
 ~thefader.com##.banner-ad
 ~totalprosports.com,~zap2it.com###ad728
-~uscbookstore.com###advertising
+~uscbookstore.com,~allthetests.com###advertising
 ~vancouversun.com##.adwrapper
 !
 ! ---------- Google Custom Search ----------
