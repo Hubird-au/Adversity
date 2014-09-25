@@ -21,6 +21,7 @@
 ||uworkin.com/public/images/motherpedia.
 !
 ###A9AdsMiddleBoxTop
+##.featuredAccount
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
 ###ad-160x600
