@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: VlXLQrQftVjK3FEgHfCZ1g
+! Checksum: 5625Y0zkNKxtWwg6ME/i9g
 !
-! Updated: 25 September 2014 (01:00:30 PM)
+! Updated: 25 September 2014 (01:03:25 PM)
 !
 ! This list expires after 5 days
 !
@@ -21,7 +21,6 @@
 ||uworkin.com/public/images/motherpedia.
 !
 ###A9AdsMiddleBoxTop
-##.featuredAccount
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
 ###ad-160x600
@@ -1351,6 +1350,7 @@
 ##.fb-likebox
 ##.fbAdUnit
 ##.featureAd
+##.featuredAccount
 ##.featuredProductWide
 ##.featuredsponsors2
 ##.firstpost_advert
