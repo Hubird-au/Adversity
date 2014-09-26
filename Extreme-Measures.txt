@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: GQA2yHW1RwgW6i3W75F6YA
+! Checksum: hSPN5oVA/F7L1aCY2G9zAg
 !
-! Updated: 25 September 2014 (01:00:30 PM)
+! Updated: 26 September 2014 (03:50:44 PM)
 !
 ! This list expires after 5 days
 !
@@ -463,6 +463,7 @@ techhive.com###toaster
 techie-buzz.com##.slide-in
 technologyevaluation.com###dropinboxv2covernew
 techrepublic.com##.cnet-brand.pos-fixed
+techtimes.com###anotherBox
 techverse.net###arevicofancy-overlay
 techverse.net###arevicofancy-wrap
 telstra.com.au###uservoice-feedback
@@ -579,6 +580,7 @@ zdnet.com##.keepUp
 ||stereophile.com^*_Popup
 ||syndication.twitter.com^$third-party,domain=~news.com.au
 ||tag.wigetmedia.com^$third-party
+||techtimes.com/home/news/recommend.
 ||tfd.com/all.png?
 ||thenewstribe.com/comltclassified.gif
 ||titsintops.com/intersitial/boobmail.
