@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GPxqZHVqdwi2SLAdGIp0XQ
+! Checksum: atDCvEDPVMxCpOdp/w+rwg
 !
-! Updated: 10 October 2014 (11:44:54 AM)
+! Updated: 10 October 2014 (02:41:02 PM)
 !
 ! This list expires after 5 days
 !
@@ -2373,6 +2373,7 @@
 /australian/css/promotions/*
 /available-app-store.
 /awstats_misc_tracker.
+/backgrounds/*-bg-wide-
 /banman/*
 /banner*-468-60-
 /banner-ad-
@@ -6516,6 +6517,7 @@ zynga.com##.noticebox
 ||news.com.au^*/unibet/
 ||news.com.au^*/warner/
 ||newsanalytics.com.au^$third-party
+||newscdn.com.au^*-seek.css
 ||newtorrents.info/img/yourad.
 ||nexac.com^
 ||nfl.com/static/*/page-background-image.
