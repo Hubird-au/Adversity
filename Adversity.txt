@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 5625Y0zkNKxtWwg6ME/i9g
+! Checksum: GPxqZHVqdwi2SLAdGIp0XQ
 !
-! Updated: 25 September 2014 (01:03:25 PM)
+! Updated: 10 October 2014 (11:44:54 AM)
 !
 ! This list expires after 5 days
 !
@@ -3107,6 +3107,7 @@
 /tac.html?site=
 /tacoda.php?url=
 /tagcloudview/?id=
+/takeover-banner-
 /takeover.$script
 /taxonomy-ads.
 /TCMAnalytics_
