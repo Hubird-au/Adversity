@@ -24,6 +24,8 @@
 ###A9AdsOutOfStockWidgetTop
 ###acAdContainer
 ###ad-160x600
+tripadvisor.com.au##.related_hotel_interrupter
+||tripadvisor.com.au/GARecord?gac=STInterrupter&gaa=
 ###ad-2-160x600
 ###ad-250
 ###ad-3-300x250
