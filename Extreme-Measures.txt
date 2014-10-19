@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: hSPN5oVA/F7L1aCY2G9zAg
+! Checksum: us0041miGwthMM9GVgHjxA
 !
-! Updated: 26 September 2014 (03:50:44 PM)
+! Updated: 20 October 2014 (09:33:27 AM)
 !
 ! This list expires after 5 days
 !
@@ -494,7 +494,7 @@ xda-developers.com###topcontainbox
 zdnet.com###cnet-brand
 zdnet.com##.catfishBar
 zdnet.com##.keepUp
-||adobe.com^$popup
+||adobe.com^$popup,domain=~mozilla.org
 ||adprs.net^
 ||androidcentral.com^*-sidebar-
 ||anyware.com.au^*/adverts/
