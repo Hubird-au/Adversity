@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NfTd90u9ShuQGE+gvuWmuA
+! Checksum: H3P0hfCl84JptJh2VmpWag
 !
-! Updated: 16 October 2014 (01:41:24 PM)
+! Updated: 20 October 2014 (02:03:15 PM)
 !
 ! This list expires after 5 days
 !
@@ -6400,6 +6400,7 @@ zynga.com##.noticebox
 ||media.news.com.au/cs/newscomau^*/bg-body.
 ||media.news.com.au^*-bg.$image
 ||media.news.com.au^*-topstrap.
+||media.news.com.au^*/amex/$stylesheet
 ||media.news.com.au^*/bg-$image
 ||media.news.com.au^*/bg-sprite.
 ||media.news.com.au^*/index-bg.
@@ -6519,6 +6520,7 @@ zynga.com##.noticebox
 ||news.com.au^*/warner/
 ||newsanalytics.com.au^$third-party
 ||newscdn.com.au^*-seek.css
+||newscdn.com.au^*/tnz/$stylesheet
 ||newtorrents.info/img/yourad.
 ||nexac.com^
 ||nfl.com/static/*/page-background-image.
