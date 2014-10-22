@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: H3P0hfCl84JptJh2VmpWag
+! Checksum: UeJk7P3rFlUUO7EcgXPapA
 !
-! Updated: 20 October 2014 (02:03:15 PM)
+! Updated: 23 October 2014 (09:26:41 AM)
 !
 ! This list expires after 5 days
 !
@@ -366,7 +366,6 @@
 ###AdvertisingLeaderboard
 ###advertisment-3
 ###advertisment-horizontal
-###adverts
 ###advertSection
 ###advertsingle
 ###adWrapper
@@ -7272,6 +7271,7 @@ zynga.com##.noticebox
 ~ensonhaber.com,~virginaustralia.com,~mmorpg.com##DIV[id^="div-gpt-ad-"]
 ~eonline.com###ad_leaderboard
 ~ew.com###adtop
+~flyroyalbrunei.com###adverts
 ~forums.asp.net##.ad-728x90
 ~gamespot.com##.mpu
 ~getprice.com.au##.sponsoredLinks
