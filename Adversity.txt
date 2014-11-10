@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UeJk7P3rFlUUO7EcgXPapA
+! Checksum: HZIOuPy/nRTXvU7El0U+Rw
 !
-! Updated: 23 October 2014 (09:26:41 AM)
+! Updated: 10 November 2014 (04:34:10 PM)
 !
 ! This list expires after 5 days
 !
@@ -2343,7 +2343,6 @@
 /affiliatetools/images/*_125X125.
 /afr.php?
 /afr?auid=
-/analytics.js$domain=~cisco.com|~egwwritings.org|~jibjab.com|~last.fm|~support.linksys.com|~shop.vodafone.com.au
 /analytics.php/page=
 /analytics.php?
 /analytics/*/track.
