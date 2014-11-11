@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: HZIOuPy/nRTXvU7El0U+Rw
+! Checksum: 9v2H5DSXjFnOTHCfFMFMuw
 !
-! Updated: 10 November 2014 (04:34:10 PM)
+! Updated: 11 November 2014 (11:24:18 AM)
 !
 ! This list expires after 5 days
 !
@@ -6742,6 +6742,7 @@ zynga.com##.noticebox
 ||res-x.com^
 ||resources*.news.com.au/cs/newscomau/*-init.js
 ||resources.news.com.au^*/lumberjack$script
+||resources.newscdn.com.au^*/css/vertical/*/desktop
 ||resources.newscdn.com.au^*aim/
 ||resources2.news.com.au/cs/newscomau/v2/*-*.jpg
 ||resources2.news.com.au/cs/newscomau/v2/*-bg.gif
