@@ -531,7 +531,7 @@ zdnet.com##.keepUp
 ||ezimg.it/s/1/2/
 ||ezimg.it^*thumbnail.
 ||facebook.com^$subdocument,third-party,domain=~zynga.com
-||facebook.net^$third-party,domain=~eonline.com|~fbme.disconnect.me|~iamsecond.com|~instructables.com|~nfl.com|~yahoo.com|~zynga.com
+||facebook.net^$third-party,domain=~eonline.com|~fbme.disconnect.me|~iamsecond.com|~instructables.com|~nfl.com|~yahoo.com|~zynga.com|~southpark.cc.com
 ||factoryprice.com.au^*/banners/
 ||feedburner.com^$third-party
 ||feedsportal.com^
