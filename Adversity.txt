@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 9v2H5DSXjFnOTHCfFMFMuw
+! Checksum: 3DqUrVtnYOaY6fWllEUM2Q
 !
-! Updated: 11 November 2014 (11:24:18 AM)
+! Updated: 21 November 2014 (09:42:35 AM)
 !
 ! This list expires after 5 days
 !
@@ -2984,7 +2984,6 @@
 /rotatingAds.
 /rotator.php?*&tracker=
 /rwtag.gif?
-/s_code_
 /save_stats.php?rand=
 /savvyads.
 /sb-relevance.
