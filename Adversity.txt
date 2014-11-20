@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3DqUrVtnYOaY6fWllEUM2Q
+! Checksum: 5ldpJ7vWUxK6zuPVLf208g
 !
-! Updated: 21 November 2014 (09:42:35 AM)
+! Updated: 21 November 2014 (10:03:31 AM)
 !
 ! This list expires after 5 days
 !
@@ -2861,6 +2861,7 @@
 /OMD_track.
 /omniture-$domain=~krem.com|~embedded-video.guardianapps.co.uk
 /omniture.$domain=~sony.com|~seek.com.au|~zdnet.com
+/omniture/second.
 /OmnitureOnClick.
 /OmnitureTrackerAS3.
 /omniunih.js$domain=~autoblog.com|~engadget.com|~mapquest.com|~video.aol.com|~www.aol.com
