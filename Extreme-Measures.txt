@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: gS7AzHCMO6RCly75WJYv3g
+! Checksum: T2J3WN7tPD01eOeXF1D8Zg
 !
-! Updated: 31 December 2014 (11:11:44 AM)
+! Updated: 31 December 2014 (11:15:08 AM)
 !
 ! This list expires after 5 days
 !
@@ -659,9 +659,11 @@ pcworld.com###toaster
 ! --------- Vietnamese ----------
 !
 4h.com.vn##.banner300250-L
+dantri.com.vn##.admicro
 kenh14.vn##.subheader
 thanhnien.com.vn##.simplebanner
 zing.vn###site-header
 zing.vn##.banner
 ||ad.zing.vn^
 ||adtimaserver.vn^$third-party
+||logdantri.vcmedia.vn^$third-party
