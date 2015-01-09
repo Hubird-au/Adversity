@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: vAcfPGPQuunsC/+L5ZWt/A
+! Checksum: qKQzzQ2OR5SYKTogvAxSsg
 !
-! Updated: 03 December 2014 (08:41:05 AM)
+! Updated: 09 January 2015 (02:06:10 PM)
 !
 ! This list expires after 5 days
 !
@@ -6633,7 +6633,6 @@ zynga.com##.noticebox
 ||pixfuture.net^
 ||planetsuzy.org/kakiframe/
 ||play-asia.com^$third-party
-||player.ooyala.com/static/modules/analytics-
 ||plugrush.com^$popup
 ||plunderguide.com/banner.
 ||plunderguide.com/leaderboard
