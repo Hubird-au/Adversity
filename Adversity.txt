@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: qKQzzQ2OR5SYKTogvAxSsg
+! Checksum: V3ERuimGLREpHyi6ejLHYw
 !
-! Updated: 09 January 2015 (02:06:10 PM)
+! Updated: 16 January 2015 (10:49:17 AM)
 !
 ! This list expires after 5 days
 !
@@ -6155,7 +6155,7 @@ zynga.com##.noticebox
 ||goodadvert.ru^
 ||google-analytics.com/ga.js$object
 ||google-analytics.com/siteopt.js
-||google-analytics.com^
+||google-analytics.com^$domain=~zoo.org.au
 ||google.co.uk/cse?cx=partner-pub-
 ||google.com/uds/afs?*&referer=
 ||googleads.g.doubleclick.net^
