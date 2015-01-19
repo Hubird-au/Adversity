@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: V3ERuimGLREpHyi6ejLHYw
+! Checksum: WI8TdBLza40Ruc4h9qE6AA
 !
-! Updated: 16 January 2015 (10:49:17 AM)
+! Updated: 20 January 2015 (08:33:25 AM)
 !
 ! This list expires after 5 days
 !
@@ -3617,7 +3617,6 @@ auscinemas.com.au##.koukokuContainer
 ausdroid.net##.wo-product-finder-strip
 ausdroid.net##DIV[style="float:none;margin:0;padding:0px;clear:none;width:302px;height:252px;border:none;"]
 australian-post-codes.com,blog.oxforddictionaries.com,techi.com###top-banner
-australianfrequentflyer.com.au###ad_global_below_navbar + * + * + * + * + * .postbody
 autospeed.com,autospeed.com.au,autospeed.co.nz##TD[style="PADDING-RIGHT: 3px"]
 autotrader.co.nz###content-banner
 autoweb.com.au##TD[style="background:#f9f9f9; BORDER-RIGHT: 1px solid #000000; BORDER-LEFT: 1px solid #000000; BORDER-BOTTOM: 1px solid #000000; width: 193px"]
