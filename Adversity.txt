@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: WI8TdBLza40Ruc4h9qE6AA
+! Checksum: BLQKwNY3EcC4Y1kXXf+/yw
 !
-! Updated: 20 January 2015 (08:33:25 AM)
+! Updated: 06 March 2015 (11:48:31 AM)
 !
 ! This list expires after 5 days
 !
@@ -7241,7 +7241,6 @@ zynga.com##.noticebox
 ||zedo.com^
 ||zerezas.com^$third-party
 ||zeusfiles.com/promo/
-||ziffdavisinternet.com^
 ||zvents.com^
 ||zwaar.org^
 ||zxxds.net^
