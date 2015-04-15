@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: SvHHTI+7M7AhJwEWlcnLLA
+! Checksum: oRW2me924qgqoUc7Il1Rdw
 !
-! Updated: 15 April 2015 (10:05:40 AM)
+! Updated: 15 April 2015 (02:40:03 PM)
 !
 ! This list expires after 5 days
 !
@@ -4002,6 +4002,7 @@ extratorrent.com##.borderdark[style="padding: 5px;"]
 extratorrent.com##TD[style="text-align: center; padding: 3px 0px 0px 10px;"]
 extremeoverclocking.com##TD[height="104"][bgcolor="#336699"]
 extremeoverclocking.com##TD[width="133"][bgcolor="#EFEFEF"][rowspan="2"]
+eztv.ch##.bitx-button
 facebook.com###pagelet_side_ads
 facebook.com##.fbEmuEgoUnit
 failblog.org,icanhascheezburger.com,memebase.com###leader_container
@@ -5688,6 +5689,7 @@ zynga.com##.noticebox
 ||bits.wikimedia.org/geoiplookup
 ||bitshare.com/getiframepopup_
 ||bitsnoop.com/ban.php?s=
+||bitx.tv^$third-party
 ||bizographics.com^$third-party
 ||bk.com/js/bk/slider_tracking.js
 ||bkrtx.com/js/bk-static.js
