@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: oRW2me924qgqoUc7Il1Rdw
+! Checksum: bTT0e3sS6af57GdmmKufBw
 !
-! Updated: 15 April 2015 (02:40:03 PM)
+! Updated: 23 April 2015 (10:21:10 AM)
 !
 ! This list expires after 5 days
 !
@@ -885,7 +885,6 @@
 ##.ad-lable
 ##.ad-lead-bottom
 ##.ad-leader-bottom
-##.ad-leader-top
 ##.ad-leaderboard
 ##.ad-leadtop
 ##.ad-left
@@ -7266,6 +7265,7 @@ zynga.com##.noticebox
 ~break.com,~tphousing.com###ad1
 ~brisbanetimes.com.au,~smh.com.au,~theage.com.au,~watoday.com.au,~plsn.com##.adWrapper
 ~bumpshack.com,~isource.com,~montrealmirror.com###topad
+~cnet.com##.ad-leader-top
 ~collegehumor.com,~gamespot.com,~mint.com,~slidetoplay.com,~smh.com.au,~stickyguide.com,~zattoo.com,~tenplay.com.au##.sponsored
 ~dailymotion.com##.right_ads_column
 ~djmick.co.uk,~rbw.org.uk,~venturebeat.com,~wisebread.com##.sponsor
