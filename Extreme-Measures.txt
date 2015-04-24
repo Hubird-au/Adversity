@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: l/iJqx80vJr0D6mkel1xMQ
+! Checksum: gl7twbeHpMToBTv9+XU7hw
 !
-! Updated: 24 April 2015 (10:34:50 AM)
+! Updated: 24 April 2015 (10:39:22 AM)
 !
 ! This list expires after 5 days
 !
@@ -493,6 +493,7 @@ wikipedia.org##.cn-fundraising
 windowssecrets.com##.subscribe
 xda-developers.com###topcontainbox
 yibada.com###anotherBox
+yibada.com##DIV[style="position:relative; width:400px; height:300px;"]
 zdnet.com###cnet-brand
 zdnet.com##.catfishBar
 zdnet.com##.keepUp
