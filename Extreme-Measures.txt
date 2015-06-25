@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: ACIAEOAkjEqaEGsk3cjUyw
+! Checksum: v+R1jKlY7kvChda4oroYAA
 !
-! Updated: 23 June 2015 (04:07:49 PM)
+! Updated: 25 June 2015 (10:03:12 AM)
 !
 ! This list expires after 5 days
 !
@@ -75,6 +75,7 @@
 ##.mobiledriver
 ##.module-promo-slider
 ##.newsletter-block
+##.newsletter-box
 ##.next-article-flyout
 ##.oo_feedback_float
 ##.privacy-policy
