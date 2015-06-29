@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: v+R1jKlY7kvChda4oroYAA
+! Checksum: LC2yco5vmQ/3DQ/xwXq1IQ
 !
-! Updated: 25 June 2015 (10:03:12 AM)
+! Updated: 29 June 2015 (10:29:33 AM)
 !
 ! This list expires after 5 days
 !
@@ -536,7 +536,7 @@ zdnet.com##.keepUp
 ||ezimg.it/s/1/2/
 ||ezimg.it^*thumbnail.
 ||facebook.com^$subdocument,third-party,domain=~zynga.com
-||facebook.net^$third-party,domain=~eonline.com|~fbme.disconnect.me|~iamsecond.com|~instructables.com|~nfl.com|~yahoo.com|~zynga.com|~southpark.cc.com
+||facebook.net^$third-party,domain=~eonline.com|~fbme.disconnect.me|~iamsecond.com|~instructables.com|~nfl.com|~yahoo.com|~zynga.com|~southpark.cc.com|~metrolyrics.com
 ||factoryprice.com.au^*/banners/
 ||feedburner.com^$third-party
 ||feedsportal.com^
