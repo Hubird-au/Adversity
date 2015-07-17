@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3hdWZUlEBtAsBBWKwXeWqA
+! Checksum: yVZQ87q2XzT1uE0T3X3tyQ
 !
-! Updated: 16 July 2015 (02:28:20 PM)
+! Updated: 17 July 2015 (10:02:32 AM)
 !
 ! This list expires after 5 days
 !
@@ -7606,6 +7606,7 @@ google.com##TABLE[width="70%"][cellpadding="0"][style="border-bottom: 1px solid 
 @@||doubleclick.net^*/DartShell$object-subrequest,domain=carsales.com.au|nhl.com|nypost.com|totalfilm.com|tvnz.co.nz|vancouversun.com
 @@||g.doubleclick.net/gampad/ads?*&slotname=autoguide_com_pre-roll$script,domain=autoguide.com
 @@||linkbucks.com/scripts/generated/$script,domain=linkbucks.com
+@@||musicfire.googlecode.com/files/advertisement.js$domain=freeallmusic.net
 @@||pubads.g.doubleclick.net/gampad/ads?$script,domain=lightinthebox.com|yfrog.com
 !
 ! ---------- http://share-links.biz/_sxdjo6l5w8ci ----------
