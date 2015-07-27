@@ -25,6 +25,7 @@
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
+whathifi.com###block-hcm-external-blocks-mpu-flexible3
 ###ad-250
 ###ad-3-300x250
 ###ad-300x250
