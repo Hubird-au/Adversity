@@ -22,6 +22,7 @@
 !
 ###A9AdsMiddleBoxTop
 ###A9AdsOutOfStockWidgetTop
+whathifi.com##.block-retsol.bottom-block
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
