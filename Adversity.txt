@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: NWu9krWRWdL53V3129xSLQ
+! Checksum: 2dwFoeEcLUoEqWGsXxOnOw
 !
-! Updated: 05 August 2015 (12:40:57 PM)
+! Updated: 10 August 2015 (11:14:59 AM)
 !
 ! This list expires after 5 days
 !
@@ -6882,6 +6882,7 @@ zynga.com##.noticebox
 ||softonicads.com^
 ||softpedia-static.com/images/afh/
 ||sophus3.com^
+||soundpark.club/js/banner.js
 ||soundstagehifi.com/images/banners/
 ||spaceprogram.com^
 ||spamreg.com/images/xbox360.gif
