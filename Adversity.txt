@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: eq86F6Q8Y71D6420zS/dBw
+! Checksum: tNXgSkPISuMPAgi/RwB43w
 !
-! Updated: 10 August 2015 (11:22:39 AM)
+! Updated: 10 August 2015 (11:27:34 AM)
 !
 ! This list expires after 5 days
 !
@@ -6385,6 +6385,7 @@ zynga.com##.noticebox
 ||markets.on.nytimes.com^
 ||masterstats.com^
 ||mathtag.com^$third-party
+||maxfeel.org/images/download.
 ||maxymiser.com^
 ||mazdas247.com/openx-
 ||mc.yandex.ru^
