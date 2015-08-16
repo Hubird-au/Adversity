@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tNXgSkPISuMPAgi/RwB43w
+! Checksum: nD06er5+E1uz15zCDpOpkw
 !
-! Updated: 10 August 2015 (11:27:34 AM)
+! Updated: 17 August 2015 (09:54:52 AM)
 !
 ! This list expires after 5 days
 !
@@ -7131,6 +7131,7 @@ zynga.com##.noticebox
 ||vizisense.net^
 ||vizu.com^
 ||vlogexpert.com^$third-party
+||vmusic.com.au/content/themes/*Skin_
 ||voicefive.com^
 ||voxilla.com/agrfx/
 ||vs4entertainment.com^
