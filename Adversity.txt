@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: nD06er5+E1uz15zCDpOpkw
+! Checksum: GzzjZ467BqCApyfStWCLpg
 !
-! Updated: 17 August 2015 (09:54:52 AM)
+! Updated: 24 August 2015 (12:37:23 PM)
 !
 ! This list expires after 5 days
 !
@@ -6160,7 +6160,7 @@ zynga.com##.noticebox
 ||goodadvert.ru^
 ||google-analytics.com/ga.js$object
 ||google-analytics.com/siteopt.js
-||google-analytics.com^$domain=~zoo.org.au|~tagheuer.com.au
+||google-analytics.com^$domain=~aftonbladet.se|~alatest.com|~americanapparel.net|~apps.facebook.com|~avast.com|~billabong.com|~bolha.com|~brobible.com|~coedmagazine.com|~ehow.com|~eonline.com|~expresspcparts.com.au|~fora.tv|~frequency.com|~g4tv.com|~gasbuddy.com|~globaltv.com|~googlelabs.com|~imageshack.us|~jetbrains.com|~jobsite.co.uk|~latimes.com|~lucasarts.com|~mashable.com|~maxcdn.com|~mazda.com.au|~mediacdn.disqus.com|~nme.com|~nuts.co.uk|~oyster.com|~philips.com|~photobucket.com|~priestville.org|~proactiv.com.au|~salon.com|~seekingalpha.com|~thevine.com.au|~threatfire.com|~tomshardware.com|~tube8.com|~tvunetworks.com|~tweetgrid.com|~weeworld.com|~yellow.co.nz|~yestosafesex.com|~youtube.com|~mail.google.com|~change.org|~tagheuer.com.au|~zoo.org.au|~manowthaimordialloc.com.au
 ||google.co.uk/cse?cx=partner-pub-
 ||google.com/uds/afs?*&referer=
 ||googleads.g.doubleclick.net^
