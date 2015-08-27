@@ -1,6 +1,6 @@
 [Adblock Plus 1.3.9]
-! Checksum: 9hTORBSx/uPRkI/9Q+9x8Q
-! Updated: 23 April 2015 (01:40:25 PM)
+! Checksum: dk9GmoPg0x8WG/5eJW1YYQ
+! Updated: 27 August 2015 (02:56:31 PM)
 ! This list expires after 5 days
 !
 ! Homepage:  http://adversity.uk.to/
@@ -1813,6 +1813,7 @@
 /twittbutton.
 /twitter-20x20.
 /twitter-dark.
+/twitter-feed.
 /twitter-icon.
 /twitter.$~stylesheet,domain=~cnet.com|~eff.org|~makeuseof.com|~twitter.com|~twitter.yfrog.com|~wwe.com|~startpins.com|~twitter.github.com|~duckduckgo.com
 /twitter/32x32.
