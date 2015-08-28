@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: GzzjZ467BqCApyfStWCLpg
+! Checksum: Y1QGratYnsRa8YIKKRFJBQ
 !
-! Updated: 24 August 2015 (12:37:23 PM)
+! Updated: 28 August 2015 (04:38:05 PM)
 !
 ! This list expires after 5 days
 !
@@ -6165,7 +6165,7 @@ zynga.com##.noticebox
 ||google.com/uds/afs?*&referer=
 ||googleads.g.doubleclick.net^
 ||googleadservices.com^
-||googletagmanager.com^$third-party,domain=~techradar.com
+||googletagmanager.com^$third-party,domain=~techradar.com|~optus.com.au
 ||googleusercontent.com/tracker/
 ||gostats.com^
 ||grapeshot.co.uk^
