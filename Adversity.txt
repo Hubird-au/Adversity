@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: g305kHKuy61yzU1rXjY3Ww
+! Checksum: YEh46v5w6q7xnfMV0sPWTQ
 !
-! Updated: 08 September 2015 (10:40:54 AM)
+! Updated: 08 September 2015 (10:41:46 AM)
 !
 ! This list expires after 5 days
 !
@@ -5898,6 +5898,7 @@ zynga.com##.noticebox
 ||dgmsearchlab.com^
 ||dianomioffers.co.uk^
 ||digipathmedia.com^
+||digitalcrak.com/images/download.
 ||digitalriver.com/images/cleardot.gif
 ||digitaltrends.com^*-mobile-feature.
 ||dinclinx.com^
