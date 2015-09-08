@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: j/aHn2g8wV194IFsEHiSXw
+! Checksum: znx4pnDko+AMkkFXTpBYaA
 !
-! Updated: 07 September 2015 (11:29:25 AM)
+! Updated: 08 September 2015 (10:36:11 AM)
 !
 ! This list expires after 5 days
 !
@@ -4245,6 +4245,7 @@ isohunt.to##.banner + * + #serps
 isohunt.to##.btn-bitlord
 isohunt.to##[style^="z-index:1000;position:relative;top:0;left:0;width:100%;background-color:#fbecad;overflow:hidden;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#707070;top:0;left:0;margin:0;padding:0;color:#000;font-family:Verdana,Geneva,sans-serif;background-position:initial initial;background-repeat:initial"]
 israbox.com##.inner.related
+israbox.info##A[href^="http://friendlyduck.com/"]
 itnews.com.au##DIV[style="width: 728px; height:90px; margin-left: auto; margin-right: auto; padding-bottom: 20px;"]
 itproportal.com##.dynamic_panel_content
 itproportal.com##.site_header
