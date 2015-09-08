@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 7mB7tXl7XtviEPv2Je8aPA
+! Checksum: g305kHKuy61yzU1rXjY3Ww
 !
-! Updated: 08 September 2015 (10:39:03 AM)
+! Updated: 08 September 2015 (10:40:54 AM)
 !
 ! This list expires after 5 days
 !
@@ -6819,6 +6819,7 @@ zynga.com##.noticebox
 ||secure-softwaremanager.com^
 ||secure.gaug.es^
 ||securep2p.com^$third-party,subdocument
+||secureupload.eu^*_Banner.
 ||securewebsiteaccess.com/log/
 ||seednet.eu/banners/
 ||seedpeer.com/images/dlf.gif
