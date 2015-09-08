@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: znx4pnDko+AMkkFXTpBYaA
+! Checksum: 7mB7tXl7XtviEPv2Je8aPA
 !
-! Updated: 08 September 2015 (10:36:11 AM)
+! Updated: 08 September 2015 (10:39:03 AM)
 !
 ! This list expires after 5 days
 !
@@ -4646,6 +4646,7 @@ radaronline.com###videoSkyscraper
 radaronline.com##[data-item-thumb^="http://cdn.taboolasyndication.com/libtrc/static/thumbnails"]
 radiotimes.com,play.tm,topgear.com,nettleden.com,nickjr.co.uk###mpu
 rapid-search-engine.com##TABLE[style="margin-top:5px;padding-top:10px;width:100%;background-color:#F5F8FE"]
+rapidallfreez.com##.quote[style="text-align:center; margin-bottom: 10px"]
 rapidmoviez.com##[src^="http://ax-d.pixfuture.net/"]
 ratecity.com.au##.gr9lg
 ratemydrawings.com##DIV[style="width:300px; height:250px; margin:0; padding: 10px 0 0 0;"]
@@ -6719,6 +6720,8 @@ zynga.com##.noticebox
 ||raasnet.com^
 ||radarurl.com^
 ||rankpay.com^
+||rapidallfreez.com/images/download.
+||rapidallfreez.com/images/download.
 ||rapidtrend.com/iframe/if.php?q=
 ||ratepoint.com^
 ||ratesonline.com.au^$third-party
@@ -7190,6 +7193,8 @@ zynga.com##.noticebox
 ||wrc.com^*-advert.
 ||ws.amazon.*/widgets/q?$third-party
 ||wunderloop.net^
+||www.rapidallfreez.com/images/downloadcloud.
+||www.rapidallfreez.com/images/downloadcloud.
 ||xbitlabs.com^*/sponsored
 ||xcams.com^*&promo=
 ||xclicks.net^
