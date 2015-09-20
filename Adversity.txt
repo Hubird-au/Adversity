@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: YEh46v5w6q7xnfMV0sPWTQ
+! Checksum: NtgI40Q+pDx1xTjcSl/fDw
 !
-! Updated: 08 September 2015 (10:41:46 AM)
+! Updated: 21 September 2015 (09:36:03 AM)
 !
 ! This list expires after 5 days
 !
@@ -1855,6 +1855,7 @@
 -adspace.
 -adspace_
 -adsystem.
+-advert/
 -advertise-here.
 -affliliatebanner728x90.
 -assets/takeover/
