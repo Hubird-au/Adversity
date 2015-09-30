@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: pqtv1ozmyAabjhMfYLLDSQ
+! Checksum: JCEq6y6FQsHZlVRhuiGQpw
 !
-! Updated: 18 September 2015 (09:59:42 AM)
+! Updated: 30 September 2015 (11:17:31 AM)
 !
 ! This list expires after 5 days
 !
@@ -146,6 +146,7 @@
 /btn-app-store-
 /btn-app-store.
 /btn-sprites.
+/btn_itunes.
 /btn_makehomepage_
 /button-appstore.
 /connect-small-feed.
@@ -335,6 +336,7 @@ _cookie.min.$domain=techradar.com
 _dates_ad.
 _follow_icons.
 _icon_feed_24.
+_icon_itunes.
 _icons_sprite_$domain=~babbel.com
 _iphone-app.
 _Island_300x250.
