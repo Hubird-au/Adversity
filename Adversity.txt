@@ -25,6 +25,7 @@
 ###acAdContainer
 ###ad-160x600
 ###ad-2-160x600
+news.com.au##.multi-promo-features
 ###ad-250
 ###ad-3-300x250
 ###ad-300x250
