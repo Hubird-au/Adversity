@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: RWIYl8zTSdJ+RRfx5L+G7Q
+! Checksum: j1LPyIPLzxMeqWDh3JjKzg
 !
-! Updated: 29 October 2015 (01:26:23 PM)
+! Updated: 23 November 2015 (11:22:31 AM)
 !
 ! This list expires after 5 days
 !
@@ -4122,6 +4122,7 @@ google.com.au##DIV[style="font-size:14px;margin-right:0;min-height:5px"]
 google.com.au##DIV[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff8e7"]
 google.com.au##TABLE[width="100%"][cellpadding="0"][style="border: 1px solid #999"]
 gossiponthis.com##.medrectangle
+gottabemobile.com##.code-block.code-block-8
 govpro.com##.featured
 greenboxit.com.au##.r1
 greenlivingtips.com##.AuthorSummary
