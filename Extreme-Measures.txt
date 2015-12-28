@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: Pon5H1pmAHV8xGIkePaqHg
+! Checksum: uGshlbwhsjoJkOvPClokzA
 !
-! Updated: 26 November 2015 (11:11:43 AM)
+! Updated: 29 December 2015 (09:18:38 AM)
 !
 ! This list expires after 5 days
 !
@@ -434,9 +434,11 @@ mycareer.com.au##.cA-coursesList.format-wide
 mycareer.com.au##.cB-strapStoryVertical
 news.com.au###makenewshome
 news.com.au###news-outbrain-widget
+news.com.au###newscorpau_external_includes_external_includes-238
 news.com.au##.cridget-html
 news.com.au##.disclaimer-footer
 news.com.au##.marketing-feature
+news.com.au##.promo-block.promo-class-marketing-feature
 news.com.au##.qanda-button-launch
 ninemsn.com.au###hd_strip
 ninemsn.com.au###nw_ft_wrap
