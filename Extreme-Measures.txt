@@ -623,7 +623,7 @@ zdnet.com##.keepUp
 /coremetrics/*
 /omniture_$~stylesheet,domain=~nationalgeographic.com|~yellowpages.com
 /s_code.js$domain=~anz.com|~auspost.com.au|~avast.com|~cisco.com|~citibank.com|~lg.com|~networkworld.com|~nfl.com|~optus.com.au|~redbookmag.com|~wwd.com|~yellowpages.com.au|~zdnet.com|~sony.com.au
-/s_code_$domain=~bhg.com|~samsung.com|~get.adobe.com|~forbes.com
+/s_code_$domain=~bhg.com|~samsung.com|~get.adobe.com|~forbes.com|~fitnessmagazine.com
 /social/icons/*
 @@/coremetrics/*$domain=advanceautoparts.com|barnesandnoble.com|staples.com|unionbank.com|victoriassecret.com
 @@/s_code.js$script,domain=nba.com|pcworld.com|macworld.com
