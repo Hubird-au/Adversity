@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: j1LPyIPLzxMeqWDh3JjKzg
+! Checksum: IFB/wPDJxQRKMOgC9byDBw
 !
-! Updated: 23 November 2015 (11:22:31 AM)
+! Updated: 16 February 2016 (03:45:05 PM)
 !
 ! This list expires after 5 days
 !
@@ -5273,6 +5273,7 @@ zynga.com##.noticebox
 ||1337x.org/downloadiframe.php?
 ||1800freecams.com^$popup
 ||194.71.107.25^$third-party
+||1nimo.com^$popup
 ||1phads.com^$popup
 ||206ads.com^
 ||208.43.84.120^$third-party
@@ -5440,6 +5441,7 @@ zynga.com##.noticebox
 ||adperium.com^
 ||adplus.cz.cc^
 ||adq.nextag.com^
+||adquantix.com^$popup
 ||adriver.ru^
 ||adroll.com^
 ||ads-web.mail.com^
@@ -6065,6 +6067,7 @@ zynga.com##.noticebox
 ||eyereturn.com^
 ||eyewonder.com^
 ||ezimg.it^*/nong_
+||fabolele.com^$popup
 ||facebook.com^*_endpoint.php?c=$image,third-party
 ||facebookcoverx.com^$popup
 ||facebookofsex.com^$third-party
@@ -6951,6 +6954,7 @@ zynga.com##.noticebox
 ||surfertracker.com^
 ||surveys.cnet.com^
 ||svlu.net^
+||sw190update.xyz^$popup
 ||swapace.com/images/owwbanner-
 ||swelen.com^
 ||syndication.jobthread.com^$third-party
