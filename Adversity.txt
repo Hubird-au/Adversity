@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: IFB/wPDJxQRKMOgC9byDBw
+! Checksum: iPQODtPJmQ2ezbcr3OPpOw
 !
-! Updated: 16 February 2016 (03:45:05 PM)
+! Updated: 18 February 2016 (02:40:28 PM)
 !
 ! This list expires after 5 days
 !
@@ -6439,6 +6439,7 @@ zynga.com##.noticebox
 ||menulog.com/images/banners/
 ||merriam-webster.com/creative.php?
 ||metartmoney.com^
+||mezomii.com^$popup
 ||mfcdn.net^*_355x955-$third-party
 ||mgid.com^$popup
 ||microsoftaffiliates.com^
