@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iPQODtPJmQ2ezbcr3OPpOw
+! Checksum: kGbeARoJ8R0uE7JhP9s70w
 !
-! Updated: 18 February 2016 (02:40:28 PM)
+! Updated: 18 February 2016 (02:42:56 PM)
 !
 ! This list expires after 5 days
 !
@@ -6543,6 +6543,7 @@ zynga.com##.noticebox
 ||ninemsn.com.au^*_Banner
 ||nonstoppartner.net^
 ||noowmedia.com^$popup
+||npmpecd.com^$popup
 ||nster.net^$third-party,domain=~nster.com
 ||nudepad.com/partners/
 ||nudepad.com^*/juicy
