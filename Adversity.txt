@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: EUH0f8wl/x2ZhUbYtjR0xQ
+! Checksum: 0ErR3uROIBtc8QFhj4uWXw
 !
-! Updated: 19 February 2016 (02:57:16 PM)
+! Updated: 23 February 2016 (04:19:50 PM)
 !
 ! This list expires after 5 days
 !
@@ -5880,6 +5880,7 @@ zynga.com##.noticebox
 ||datefunclub.com^$third-party
 ||datpiff.com/skins/$~stylesheet
 ||dc.tremormedia.com^
+||dc121677.com^
 ||dealnews.com/lw/
 ||dealoftheday.yellowpages.com^$popup
 ||deals.lifehack.org^
