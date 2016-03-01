@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Jd5nDwFgEuKsRHxXDAV2xA
+! Checksum: r06b4QQJjaa420tYguYFFQ
 !
-! Updated: 29 February 2016 (04:08:31 PM)
+! Updated: 01 March 2016 (11:43:49 AM)
 !
 ! This list expires after 5 days
 !
@@ -2343,6 +2343,7 @@
 /affiliatetools/images/*_125X125.
 /afr.php?
 /afr?auid=
+/amazon-launchpad-
 /analytics.php/page=
 /analytics.php?
 /analytics/*/track.
@@ -5606,6 +5607,7 @@ zynga.com##.noticebox
 ||anametrix.net^
 ||anatid3.com^
 ||anchorfree.net^
+||androidcentral.com^*-banner-
 ||androidpolice.com/wp-content/themes/ap1/images/das/
 ||anime.jlist.com^$third-party
 ||anytorrentsdownload.com/images/download720.
