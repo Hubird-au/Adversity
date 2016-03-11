@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: tYzyf1BRZaFRgGFNFlTf8A
+! Checksum: J2tYOxfMEvaCBCXknNIREQ
 !
-! Updated: 08 March 2016 (11:20:28 AM)
+! Updated: 11 March 2016 (03:48:54 PM)
 !
 ! This list expires after 5 days
 !
@@ -6186,6 +6186,7 @@ zynga.com##.noticebox
 ||gostats.com^
 ||grapeshot.co.uk^
 ||gravity.com^
+||greatwork.info^$popup
 ||greenboxit.com.au^*_Banner.
 ||gs.instantservice.com^
 ||gscounters.gigya.com^
