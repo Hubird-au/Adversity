@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: rozmYZjBXr/4OM8/LpTlBQ
+! Checksum: plv7t6tY5u4wlaW8QCKKug
 !
-! Updated: 16 March 2016 (02:45:12 PM)
+! Updated: 16 March 2016 (02:48:33 PM)
 !
 ! This list expires after 5 days
 !
@@ -14,7 +14,6 @@
 !
 ! Title: Adversity
 !
-! Homepage:  http://adversity.uk.to/
 !
 ! ---------- Short Term Rules ----------
 !
