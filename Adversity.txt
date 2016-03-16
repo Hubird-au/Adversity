@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 3H4WscMmFT5vC0Ws9StcYw
+! Checksum: UllNMSO9fUPi2Iqp2+R8gg
 !
-! Updated: 16 March 2016 (01:25:26 PM)
+! Updated: 16 March 2016 (01:31:01 PM)
 !
 ! This list expires after 5 days
 !
@@ -5687,6 +5687,7 @@ zynga.com##.noticebox
 ||beacon-3.newrelic.com^$image
 ||beap.bc.yahoo.com/yi?
 ||beead.co.uk^
+||bet365.com^$popup
 ||bet365affiliates.com^
 ||betaffs.com^$third-party
 ||betanews.com/track?
@@ -6211,6 +6212,7 @@ zynga.com##.noticebox
 ||hide-my-ip.com/promo/
 ||hideus.in^$popup
 ||highwebmedia.com^
+||hipersushiads.com^$popup
 ||histats.com^
 ||hit-now.com^
 ||hitbox.com^
@@ -6445,6 +6447,7 @@ zynga.com##.noticebox
 ||megaclick.com^
 ||megaclick.com^$popup
 ||megacpm.com^
+||megapopads.com^$popup
 ||megarapid.net/300x250_
 ||megashare.com/images/make_money_click.
 ||megashares.com/cache_program_banner.
@@ -6725,6 +6728,7 @@ zynga.com##.noticebox
 ||pubads.g.doubleclick.net^
 ||publisheradnetwork.com^
 ||publishflow.com^
+||puhtml.com^$third-party
 ||pullcorn.com^
 ||pulse360.com^
 ||pulselog.com^
@@ -6991,6 +6995,7 @@ zynga.com##.noticebox
 ||techpowerup.com/images/bnnrs/
 ||telegraph.co.uk^*/indeed/
 ||ten.com.au/js/ten.ads-and-tracking.
+||terraclicks.com^$popup
 ||tevee.com^$~third-party
 ||textad.sexsearch.com^$popup
 ||the-adult-company.com/stock.php?$image
@@ -7034,6 +7039,7 @@ zynga.com##.noticebox
 ||toplist.eu^
 ||toplist.sk^
 ||toptenreviews.com/r/c/request.php?path=tmn/*&sub_id=
+||toptrailers.net^$popup
 ||torads.me^
 ||torrent-finder.eu^*/splashpage.
 ||torrent.cd/images/banner-
