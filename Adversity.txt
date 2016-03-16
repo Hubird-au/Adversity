@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ryRJskul8ZFjlFJPvdyuRQ
+! Checksum: 3H4WscMmFT5vC0Ws9StcYw
 !
-! Updated: 16 March 2016 (09:54:17 AM)
+! Updated: 16 March 2016 (01:25:26 PM)
 !
 ! This list expires after 5 days
 !
@@ -2910,6 +2910,7 @@
 /pixy.gif?
 /placeholder-ad-
 /playertracking/*
+/playmillion/*
 /pop-imp.
 /popper.js$domain=toptenreviews.com
 /poptest.
@@ -5693,6 +5694,7 @@ zynga.com##.noticebox
 ||bi.medscape.com/pi/1x1/
 ||bidsystem.com^
 ||bidvertiser.com^
+||bidvertiser.com^$popup
 ||bigfatlottos.com^$popup
 ||bing.com/fd/ls/GLinkPing.aspx?
 ||bing.com/fd/ls/l?IG
@@ -6660,6 +6662,7 @@ zynga.com##.noticebox
 ||pixfuture.net^
 ||planetsuzy.org/kakiframe/
 ||play-asia.com^$third-party
+||playmillion.com^
 ||plugrush.com^$popup
 ||plunderguide.com/banner.
 ||plunderguide.com/leaderboard
