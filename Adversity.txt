@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: UllNMSO9fUPi2Iqp2+R8gg
+! Checksum: rozmYZjBXr/4OM8/LpTlBQ
 !
-! Updated: 16 March 2016 (01:31:01 PM)
+! Updated: 16 March 2016 (02:45:12 PM)
 !
 ! This list expires after 5 days
 !
@@ -3342,8 +3342,7 @@
 @@||officeworks.com.au/wcsstore/OfficeworksSA/javascript/ow*/analytics.js
 @@||officeworks.com.au/wcsstore/OfficeworksSA/javascript/ow/*/analytics.js$domain=officeworks.com.au
 @@||secure-au.imrworldwide.com/v60.js$domain=realestateview.com.au
-@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=$domain=forbes.com
-@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&correlator=$domain=forbes.com
+@@||securepubads.g.doubleclick.net/gampad/ads?gdfp_req=*&correlator=$domain=forbes.com
 _120x60.gif
 _120x600.
 _120x600_
