@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aF2SQKvjD46IpDmgglUJrw
+! Checksum: d2hnbock3c5jSOpatqSFHg
 !
-! Updated: 24 March 2016 (03:27:13 PM)
+! Updated: 31 March 2016 (11:07:42 AM)
 !
 ! This list expires after 5 days
 !
@@ -4486,8 +4486,13 @@ ninemsn.com.au###shopping
 ninemsn.com.au###spons_left
 ninemsn.com.au###ysm
 ninemsn.com.au##.ad-banner-top-wrapper.module
+ninemsn.com.au##.affiliate
+ninemsn.com.au##.dealwatch
 ninemsn.com.au##.jobsearchBox
+ninemsn.com.au##.marketing__img
 ninemsn.com.au##.partner-link
+ninemsn.com.au##.partner-list
+ninemsn.com.au##.partner-offers
 ninemsn.com.au##.rhs-island
 ninemsn.com.au##.xsRightRail
 ninemsn.com.au##.xsSkyscraper
@@ -6552,6 +6557,7 @@ zynga.com##.noticebox
 ||nfl.com/static/*/page-background-image.
 ||nicemix.com^$third-party
 ||nicevid.net^$third-party
+||ninemsn.com.au/static/widgets/shortcuts/
 ||ninemsn.com.au^*.tracking.udc.
 ||ninemsn.com.au^*_Banner
 ||nonstoppartner.net^

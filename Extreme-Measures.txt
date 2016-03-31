@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: bFfyvi0uIpaCotQDhqw6bg
+! Checksum: li7G74MDkd57xztmbo54dw
 !
-! Updated: 17 March 2016 (01:03:47 PM)
+! Updated: 31 March 2016 (11:07:42 AM)
 !
 ! This list expires after 5 days
 !
@@ -447,6 +447,7 @@ news.com.au##.promo-block.promo-class-marketing-feature
 news.com.au##.qanda-button-launch
 ninemsn.com.au###hd_strip
 ninemsn.com.au###nw_ft_wrap
+ninemsn.com.au##[data-treatment="SetHomepage"]
 novafm.com.au###Div3
 nudecelebforum.com###floatingbar
 nytimes.com###upNext
