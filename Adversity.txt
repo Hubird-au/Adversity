@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: yT5QO+a61w26vQ9pB96nTA
+! Checksum: Jxvssbve1UgG22+fM5+mkw
 !
-! Updated: 07 April 2016 (10:27:21 AM)
+! Updated: 08 April 2016 (01:39:59 PM)
 !
 ! This list expires after 5 days
 !
@@ -4032,6 +4032,7 @@ filestube.com##.resultadv2
 filestube.com##A[href^="http://www.filestube.com/sponsored_"]
 filestube.com##DIV[style="color:#CBCBCB;border-top:1px solid #dfdfdf;text-align:right;padding:6px 10px 10px;"]
 findicons.com###bsa_leaderboard
+flacmania.ru##.download-area-top
 flashgames247.com##DIV[style="float: left; clear: left; width: 180px; height: 618px; margin: 0 5px 5px 0"]
 flashgot.net,noscript.net###google
 flashgot.net,noscript.net##A[rel="nofollow"][target="_blank"]
