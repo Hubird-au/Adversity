@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Jxvssbve1UgG22+fM5+mkw
+! Checksum: v61DXxhImYeFEoSI0E2uIQ
 !
-! Updated: 08 April 2016 (01:39:59 PM)
+! Updated: 27 April 2016 (01:38:28 PM)
 !
 ! This list expires after 5 days
 !
@@ -6104,6 +6104,7 @@ zynga.com##.noticebox
 ||filetarget.com^*=$subdocument
 ||fimserve.com^
 ||fimserve.ign.com^
+||fincastavancessetti.info^$popup
 ||findsex.com^$popup
 ||finishclueobscure.info^$popup
 ||fitschigogerl.com^$script,third-party
@@ -6672,6 +6673,7 @@ zynga.com##.noticebox
 ||planetsuzy.org/kakiframe/
 ||play-asia.com^$third-party
 ||playmillion.com^
+||playmillionspins.com^$popup
 ||plugrush.com^$popup
 ||plunderguide.com/banner.
 ||plunderguide.com/leaderboard
