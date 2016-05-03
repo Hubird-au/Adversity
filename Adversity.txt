@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: v61DXxhImYeFEoSI0E2uIQ
+! Checksum: 7SYr1QECSP8f0PDywpPJHw
 !
-! Updated: 27 April 2016 (01:38:28 PM)
+! Updated: 03 May 2016 (04:56:23 PM)
 !
 ! This list expires after 5 days
 !
@@ -6436,6 +6436,7 @@ zynga.com##.noticebox
 ||media.news.com.au^*/bg-$image
 ||media.news.com.au^*/bg-sprite.
 ||media.news.com.au^*/index-bg.
+||media.news.com.au^*/sally-hansen/
 ||media.news.com.au^*/samsung.css
 ||media.news.com.au^*/skin.js
 ||media.sensis.com.au/hserver/acc_random=$subdocument
