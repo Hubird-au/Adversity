@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: X6esXxI0TsvQZLizJ9fFQg
+! Checksum: Cnd4k5wmNBNVif03/yZpdQ
 !
-! Updated: 10 May 2016 (01:59:55 PM)
+! Updated: 23 May 2016 (11:06:55 AM)
 !
 ! This list expires after 5 days
 !
@@ -4438,6 +4438,7 @@ netdoctor.co.uk##.mpu-top-right
 nettleden.com###commercial
 network-tools.com##.right
 news.com.au###ad-island + * + * + * *
+news.com.au###anchor-real-estate
 news.com.au##.ad + * + * + * + * + * + * .group.group-lead-rhc
 news.com.au##.affiliate-module
 news.com.au##.affiliate-mrec-iframe
