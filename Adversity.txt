@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Cnd4k5wmNBNVif03/yZpdQ
+! Checksum: Hq0DlPeteCB/h14rVb6Umg
 !
-! Updated: 23 May 2016 (11:06:55 AM)
+! Updated: 01 June 2016 (09:58:58 AM)
 !
 ! This list expires after 5 days
 !
@@ -2247,6 +2247,7 @@
 /adservices/*
 /adsettings/*
 /adsfac.
+/adshare-
 /adshop/*
 /adshow?
 /AdSignia.js?
@@ -6384,6 +6385,7 @@ zynga.com##.noticebox
 ||localadbuy.com^
 ||lockerdome.com^$third-party,domain=escapistmagazine.com
 ||lockhosts.com^
+||lockscalecompare.com^$popup
 ||log.adap.tv^
 ||log1.music.yahoo.com^
 ||logger.dailymotion.com^
@@ -6649,6 +6651,7 @@ zynga.com##.noticebox
 ||peer39.net^
 ||perfb.com^$third-party
 ||petametrics.com^$third-party
+||pg-trk.com^$popup
 ||pgmediaserve.com^
 ||phncdn.com/iframe-
 ||phncdn.com/images/campaign-backgrounds/
@@ -7190,6 +7193,7 @@ zynga.com##.noticebox
 ||w9.60s.com.vn^
 ||wahoha.com^$third-party
 ||wantlive.com^$popup,third-party
+||watchformytechstuff.com^$popup
 ||watchmygf.com^$third-party
 ||waudit.cz^
 ||wdg.swarmjam.com^$third-party
