@@ -1,7 +1,7 @@
 [Adblock Plus 1.3.9]
-! Checksum: rZ7gjbv8uAZPrpMtY3h84A
+! Checksum: KHqQSZRfR61MkQVNPdfyAw
 !
-! Updated: 02 June 2016 (09:18:00 AM)
+! Updated: 06 June 2016 (04:18:51 PM)
 !
 ! This list expires after 5 days
 !
@@ -466,6 +466,8 @@ pocketables.com##.post-share
 pof.com##A[href^="http://itunes.apple.com/app/"]
 readwriteweb.com###upprev_box
 reference.com###sftr
+scorptec.com.au###left_frame
+scorptec.com.au###right_frame
 securitynewsdaily.com##.anch_mtx_holder
 seek.com.au###SKLPeekdown
 seek.com.au##.premium-listed
@@ -573,6 +575,7 @@ zdnet.com##.keepUp
 ||infochoice.com.au/Handler/WidgetV2Handler.ashx?
 ||keywordblocks.com^
 ||letitbit.net^*top_slider.
+||mark.scorptec.com.au/BDE-
 ||media.news.com.au^*/index.jpg
 ||media.news.com.au^*/title-strap.
 ||media.xda-developers.com^*/sprites.
