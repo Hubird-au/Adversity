@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: Hq0DlPeteCB/h14rVb6Umg
+! Checksum: sxF/CyhQVBni9/60rsa/FA
 !
-! Updated: 01 June 2016 (09:58:58 AM)
+! Updated: 15 June 2016 (02:21:58 PM)
 !
 ! This list expires after 5 days
 !
@@ -5130,6 +5130,7 @@ whathifi.com###block-hcm-external-blocks-mpu-flexible3
 whathifi.com###pageHeader
 whathifi.com##.block-retsol
 whathifi.com##.block-retsol.bottom-block
+whathifi.com##.compare-prices-module
 whathifi.com##.leaderBoardWrapper
 whathifi.com##[href*="/sponsored"]
 whatsmyuseragent.com##.whtasd
