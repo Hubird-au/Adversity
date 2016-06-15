@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: 2UYLJ43QVyQVoCrTPW5ung
+! Checksum: iFbUckRF9SI8F8nj+6vHTA
 !
-! Updated: 15 June 2016 (03:12:14 PM)
+! Updated: 15 June 2016 (03:26:21 PM)
 !
 ! This list expires after 5 days
 !
@@ -3448,6 +3448,7 @@ _home_adg24.
 _home_adrow-
 _homepage_promo_
 _house_ad_
+_hpbanner_
 _images/*-banner$domain=ebay.com.au
 _images/sponsors/
 _img/takeover/
