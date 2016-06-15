@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: sxF/CyhQVBni9/60rsa/FA
+! Checksum: 2UYLJ43QVyQVoCrTPW5ung
 !
-! Updated: 15 June 2016 (02:21:58 PM)
+! Updated: 15 June 2016 (03:12:14 PM)
 !
 ! This list expires after 5 days
 !
@@ -3049,6 +3049,7 @@
 /spike_Skin_
 /spo_show.asp?
 /sponsor-ads/*
+/sponsor.
 /sponsor_dashad_
 /sponsor_links_
 /sponsor_logos/*
