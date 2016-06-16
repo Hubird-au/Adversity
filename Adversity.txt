@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: iFbUckRF9SI8F8nj+6vHTA
+! Checksum: aPWqNb8+V125F4z0BgnVTg
 !
-! Updated: 15 June 2016 (03:26:21 PM)
+! Updated: 16 June 2016 (11:34:16 AM)
 !
 ! This list expires after 5 days
 !
@@ -3634,6 +3634,7 @@ avforums.com##.bannerBoxMPU
 avforums.com##.bbBox
 avforums.com##.bBox
 avforums.com##.bBoxBottom
+avforums.com##.headerCommercial
 avforums.com##.lboBox
 avforums.com##.lboBoxBottom
 avforums.com##.lbosBox
