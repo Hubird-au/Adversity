@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: aPWqNb8+V125F4z0BgnVTg
+! Checksum: DSlKaXYzjzkguK3M6Se+cw
 !
-! Updated: 16 June 2016 (11:34:16 AM)
+! Updated: 17 June 2016 (10:37:54 AM)
 !
 ! This list expires after 5 days
 !
@@ -6073,6 +6073,7 @@ zynga.com##.noticebox
 ||evolvemediametrics.com^
 ||evyy.net^
 ||eweek.com/images/stories/Marketing/
+||ex-load.com^$third-party
 ||exelator.com^$third-party
 ||exgfpics.com/150x200-
 ||exoclick.com^
