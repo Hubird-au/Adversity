@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: DSlKaXYzjzkguK3M6Se+cw
+! Checksum: hcRhOFeX6k/oLA2PVdnVQA
 !
-! Updated: 17 June 2016 (10:37:54 AM)
+! Updated: 22 June 2016 (03:50:03 PM)
 !
 ! This list expires after 5 days
 !
@@ -3810,6 +3810,7 @@ couriermail.com.au##.text-g-cm-web-group-news-affiliate
 coveritlive.com###madModal
 coveritlive.com###popupModalBkgd
 cpu-world.com##DIV[style="height: 90px; padding: 3px; text-align: center"]
+cpuboss.com##[data-at-type="affiliate"]
 cpuid.com###console_log
 crackberry.com,datpiff.com,emedtv.com,engadget.com,pcworld.com,scienceblogs.com,topgear.com##.skyscraper
 crackspider.net###divStayTopLeft
