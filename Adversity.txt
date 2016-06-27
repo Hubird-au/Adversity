@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: hcRhOFeX6k/oLA2PVdnVQA
+! Checksum: ySswYDUkwvBiGfanwK6l2g
 !
-! Updated: 22 June 2016 (03:50:03 PM)
+! Updated: 27 June 2016 (01:04:54 PM)
 !
 ! This list expires after 5 days
 !
@@ -4474,6 +4474,7 @@ news.com.au##.text-m-partner-offers
 news.com.au##.text-m-sponsored-content
 news.com.au##.travel-region
 news.com.au##[class*="-footer-ads"] .multi-promo
+news.com.au##[class*="-sponsored-"]
 news.com.au##[id*="-skin-"]
 news.myrp.com.au##.rentBuyForm
 news.scotsman.com##.vote_va
