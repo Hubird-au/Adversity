@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ySswYDUkwvBiGfanwK6l2g
+! Checksum: muLaohkXRZ42gKXrB36Ecw
 !
-! Updated: 27 June 2016 (01:04:54 PM)
+! Updated: 29 June 2016 (09:38:31 AM)
 !
 ! This list expires after 5 days
 !
@@ -6950,6 +6950,7 @@ zynga.com##.noticebox
 ||sponsoredtweets.com^
 ||sportsbetaffiliates.com.au^
 ||spotxchange.com/flash/AdPlayer.swf?channel_id=
+||spredrx.net^$third-party
 ||spylog.ru^
 ||srv.nwave.de^
 ||srx.au.ebayrtm.com/rtm?RtmCmd&a=json&l=
