@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: owMR/jxGyEstYoWnkKGymA
+! Checksum: 7YyPmqOsl7OF7mn+TO3jxA
 !
-! Updated: 29 June 2016 (10:32:07 AM)
+! Updated: 29 June 2016 (10:35:24 AM)
 !
 ! This list expires after 5 days
 !
@@ -6111,6 +6111,7 @@ zynga.com##.noticebox
 ||filedino.com/imagesn/DownloadGif.gif
 ||filedropper.com^*/336x280
 ||filefactory.com/img/rikimbo
+||files-find.com^
 ||filestube.com^*/banners/
 ||filetarget.com^*=$subdocument
 ||fimserve.com^
