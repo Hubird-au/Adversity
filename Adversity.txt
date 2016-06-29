@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: muLaohkXRZ42gKXrB36Ecw
+! Checksum: owMR/jxGyEstYoWnkKGymA
 !
-! Updated: 29 June 2016 (09:38:31 AM)
+! Updated: 29 June 2016 (10:32:07 AM)
 !
 ! This list expires after 5 days
 !
@@ -5281,6 +5281,7 @@ zynga.com##.noticebox
 |http://files.nyaa.eu/__
 |http://www.mochiads.com^
 |pan2.ephotozine.com^$image
+||$domain=springfiles.net
 ||$subdocument,third-party,domain=adf.ly
 ||$subdocument,third-party,domain=linkbucksmedia.com
 ||1.oz-over.com^$third-party
@@ -6033,6 +6034,7 @@ zynga.com##.noticebox
 ||ebuyer.com^*promos/
 ||eclipse.org^*/promo/
 ||eclipse.org^*/promotions/
+||ecosmartfilter.com^
 ||ectnews.com/adsys/count/
 ||ectnews.com/shared/ajax/protoaculous.
 ||ecustomeropinions.com^
@@ -6790,6 +6792,7 @@ zynga.com##.noticebox
 ||releaselog.net/468.htm
 ||releaselog.net/uploads/$subdocument
 ||releaselog.net/uploads2/
+||rencontresparis2015.com^$popup
 ||rense.com/*ad$script
 ||rense.com^*750x50.
 ||rense.com^*ADHERE
@@ -6951,6 +6954,7 @@ zynga.com##.noticebox
 ||sportsbetaffiliates.com.au^
 ||spotxchange.com/flash/AdPlayer.swf?channel_id=
 ||spredrx.net^$third-party
+||springfiles.net^
 ||spylog.ru^
 ||srv.nwave.de^
 ||srx.au.ebayrtm.com/rtm?RtmCmd&a=json&l=
