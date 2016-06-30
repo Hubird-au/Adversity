@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Checksum: ukKxyvWime6TXl0+hvGRqg
+! Checksum: ZFKEv2dlu9F3o005U2yt+g
 !
-! Updated: 29 June 2016 (04:02:22 PM)
+! Updated: 01 July 2016 (09:21:04 AM)
 !
 ! This list expires after 5 days
 !
@@ -6570,6 +6570,7 @@ zynga.com##.noticebox
 ||news.com.au^*/telstra/
 ||news.com.au^*/unibet/
 ||news.com.au^*/warner/
+||news.com.au^*exoduscampaigns/
 ||newsanalytics.com.au^$third-party
 ||newscdn.com.au^*-seek.css
 ||newscdn.com.au^*/tnz/$stylesheet
